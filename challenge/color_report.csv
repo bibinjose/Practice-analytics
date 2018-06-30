@@ -1,0 +1,1006 @@
+serial_id,name,color,amount_color,amount_color_bland,biggest_item,amount_biggest_item,x_code,report_date
+0,Smith-Fields Services,silver,795.05,176.06,Fruit,58.54,8d1a0022,1992/07
+1,Carr PLC E-markets,teal,814.96,468.80,Toy,54.54,587f1813,1970/07
+2,"Washington, Scott and Allen Synergies",lime,415.32,214.11,Fruit,43.28,fcd55221,1977/05
+3,"Green, Evans and Lynch Experiences",silver,216.21,103.36,Bead,35.50,e78467bd,2008/04
+4,Perry-Ayala Users,purple,637.61,410.97,Toy,45.97,a329385c,1945/10
+5,Berg Ltd Models,teal,566.24,410.84,Toy,56.75,301ec326,2001/08
+6,Johnson Inc Solutions,silver,386.38,303.37,Jewelry,31.15,4573223e,1977/02
+7,Smith Group Applications,maroon,553.77,341.78,Jewelry,54.90,b6472ae9,1944/03
+8,Anderson and Sons Vortals,white,663.77,408.30,Fruit,16.59,bcc7aa09,1942/02
+9,"Kane, Howard and Davis Interfaces",lime,766.93,378.80,Jewelry,14.27,1e95fb23,1975/06
+10,"Pitts, Walker and Bartlett Mindshare",lime,332.60,187.26,Jewelry,27.05,e512b2b0,1992/05
+11,Brooks LLC Web-readiness,navy,512.69,442.75,Bead,48.34,484186fe,2007/03
+12,Reynolds and Sons Synergies,maroon,822.02,408.87,Jewelry,61.44,4a331422,1981/06
+13,"Morrow, Bradshaw and Sanchez Content",yellow,360.26,141.18,Toy,48.72,6079d6f8,1947/02
+14,"Brown, Barnes and Ward Technologies",yellow,34.64,26.03,Toy,63.86,d8bfe558,1945/06
+15,Pace-Morgan Communities,teal,204.56,30.99,Basket,16.84,f556e2e4,1960/07
+16,Palmer PLC Channels,maroon,185.30,127.20,Basket,16.55,abc51f9c,2007/10
+17,"Preston, Mendoza and Brown Synergies",teal,354.19,134.87,Bead,1.64,08c87b55,1983/05
+18,"Smith, Hughes and Lewis E-tailers",white,283.02,73.85,Basket,54.32,fcfec9e0,1947/02
+19,Roberson and Sons Metrics,lime,495.36,333.77,Basket,16.45,68843498,2000/07
+20,"Burns, Morton and Jackson Functionalities",maroon,561.23,399.33,Umbrella,5.08,3fd70858,1944/10
+21,Vazquez LLC Convergence,fuchsia,793.31,563.06,Fruit,18.73,12892fa2,1952/10
+22,Ortega-Rogers Channels,yellow,341.98,148.28,Toy,13.02,3ba0d808,1969/02
+23,"Wood, Ellis and Diaz Technologies",green,"1,055.06",572.65,Umbrella,28.04,fc7678bc,1966/05
+24,"Chavez, Collins and Gray Niches",silver,567.70,163.01,Jewelry,34.96,bab0a53d,2003/07
+25,Ortiz and Sons Relationships,gray,193.23,73.07,Jewelry,51.19,47770033,2005/12
+26,"Garcia, Goodman and Ball Synergies",navy,420.03,214.76,Fruit,63.33,d0951331,1946/09
+27,"Jones, Jackson and Lewis Relationships",fuchsia,759.19,309.81,Fruit,22.18,47a9af30,1995/06
+28,"Perkins, Rivera and White Functionalities",blue,897.20,467.79,Jewelry,46.55,5868ed06,1966/01
+29,Collins PLC Info-mediaries,olive,541.71,356.29,Fruit,37.78,0e9c06db,1988/06
+30,Martin PLC Experiences,maroon,497.28,293.29,Jewelry,16.89,7e40ad44,2003/02
+31,"Burnett, Price and Moreno Interfaces",blue,872.23,686.42,Fruit,34.63,6665edd1,1979/11
+32,Rodriguez Group Infrastructures,navy,958.39,510.19,Toy,12.28,577d1169,1954/11
+33,Carter-Brown E-markets,green,468.24,176.46,Jewelry,63.83,305d2575,2007/08
+34,George-Nunez Initiatives,green,644.74,388.31,Jewelry,37.86,b761e452,1975/04
+35,"Lee, Rodriguez and Anderson Bandwidth",silver,943.57,462.06,Jewelry,35.26,f0f44531,1984/04
+36,Schmidt Inc Bandwidth,olive,754.53,675.14,Toy,57.18,d27a5195,1966/09
+37,"Miller, Morales and Edwards Methodologies",lime,56.47,12.12,Jewelry,13.45,694acdbc,1999/11
+38,Haley-Morris Info-mediaries,purple,830.33,335.56,Paint,35.43,6eb38025,2002/02
+39,"Wood, Nelson and Stevens Action-items",navy,501.40,327.13,Toy,54.37,d76bb88a,2006/10
+40,Phelps Group Action-items,gray,369.40,272.92,Toy,39.81,800a5e07,1959/04
+41,Cooper and Sons Solutions,green,925.28,567.11,Toy,9.47,9ac6dd38,1958/05
+42,Mckenzie-Noble Models,green,253.30,180.45,Toy,57.12,8112e8da,1961/11
+43,Wheeler-Wood Relationships,black,283.19,196.77,Basket,37.96,deafca85,1977/05
+44,Ray-Long Mindshare,blue,621.18,273.71,Jewelry,4.67,f8315e93,1953/03
+45,"Johnson, Smith and Ayala Markets",aqua,691.42,464.18,Paint,48.66,9f453a34,2005/11
+46,Navarro-Dawson Networks,fuchsia,827.08,389.44,Fruit,54.49,3cc77e0a,1955/02
+47,Davenport-Brown Action-items,silver,200.47,108.10,Jewelry,34.21,c2431b83,1997/03
+48,Hill Ltd Technologies,white,192.19,128.27,Toy,43.42,8dfc2b58,1963/01
+49,Smith-Johnson Supply-chains,fuchsia,67.12,10.02,Jewelry,60.45,4b70dcc9,1953/06
+50,"Patel, Graham and Haynes Content",black,"1,143.11",372.52,Bead,33.84,1e903eca,2002/10
+51,"Carlson, Hernandez and Lin Services",black,541.33,386.88,Bead,37.80,c22f5621,1984/02
+52,"Vaughn, Byrd and Hart Models",olive,132.73,97.11,Fruit,31.03,a1d2abcc,1953/05
+53,"Wright, Zimmerman and Cannon Web-readiness",gray,405.56,89.51,Basket,57.83,f1835b40,1978/06
+54,Russell-Flores E-tailers,purple,633.82,167.90,Umbrella,33.22,cf64203b,1997/02
+55,Nelson Inc Communities,maroon,330.51,181.89,Bead,48.95,ef05845e,2005/09
+56,"Patel, Graham and Haynes Content",purple,490.23,157.17,Toy,45.56,0cbead3b,1997/04
+57,Shaffer-Allen Partnerships,blue,489.43,262.62,Toy,31.20,3d13cd40,1960/09
+58,"Smith, Compton and Gibson Communities",olive,196.78,63.41,Jewelry,22.80,8aba5834,1946/07
+59,Hinton LLC Action-items,lime,117.55,92.25,Toy,48.24,8134fbd4,1957/07
+60,Butler LLC Markets,lime,342.40,228.93,Fruit,51.02,9d109adf,1947/07
+61,"Johnson, Stone and Massey Infrastructures",yellow,535.75,435.61,Fruit,37.63,d5bac873,1997/11
+62,Franklin LLC Schemas,gray,205.85,73.11,Jewelry,38.81,f835ad91,1961/10
+63,Johnson-Jones Portals,yellow,699.21,423.61,Jewelry,42.66,76eeafcc,1973/11
+64,Jones Ltd E-business,lime,215.63,152.18,Toy,27.00,6b948944,1944/08
+65,"Dickson, Miller and Joyce Services",silver,692.62,411.58,Toy,57.98,b1e52692,2001/08
+66,Clements Ltd Supply-chains,purple,767.43,354.52,Jewelry,24.06,be5906a8,1974/09
+67,Carpenter-Collins Initiatives,aqua,137.48,63.48,Jewelry,20.52,28b1d595,2002/03
+68,"Martinez, Garrett and Reed Action-items",silver,364.14,292.61,Jewelry,18.36,0dece40d,1978/07
+69,Fitzgerald-Edwards Roi,yellow,676.12,259.81,Umbrella,55.36,61abb1f9,1972/01
+70,Garrett-Schneider Roi,olive,303.24,161.24,Toy,17.17,a73c0475,1962/08
+71,"Ward, Sparks and Romero Vortals",yellow,667.37,171.42,Jewelry,17.17,5da08313,1975/05
+72,Esparza-Stephens Bandwidth,navy,241.50,174.91,Bead,12.18,5d1f972d,2001/07
+73,"Cox, Davis and Davis Services",olive,484.28,175.60,Jewelry,2.06,414ccb51,1976/12
+74,"Ellison, Andrews and Jones Synergies",yellow,351.25,173.81,Jewelry,24.93,ed76f0c0,1939/01
+75,"Molina, Green and Valdez Schemas",blue,622.86,409.90,Paint,32.90,5c6af7a3,1946/03
+76,Fuller-Gomez Synergies,black,436.92,133.73,Coffee Mug,45.17,3abef8b5,1980/04
+77,Koch-Smith Experiences,lime,630.52,217.02,Jewelry,52.75,8b6ab236,1948/11
+78,Campbell Group Deliverables,teal,200.95,162.21,Jewelry,26.91,dcb2413b,1982/04
+79,"Morton, Potter and Rogers Schemas",gray,874.20,380.39,Jewelry,24.58,dc415a8a,1943/03
+80,Carter LLC Methodologies,maroon,868.30,649.53,Toy,31.50,603a0ac3,1985/04
+81,Wilson-Harrington Content,green,177.27,97.53,Jewelry,10.77,3ba021da,1991/01
+82,"Smith, Aguilar and Garner Partnerships",white,738.14,194.05,Bead,39.88,74d3ee59,2001/11
+83,"Thomas, Tyler and Hudson Initiatives",purple,608.80,337.48,Jewelry,29.01,359b9e6e,1967/09
+84,Mcdowell LLC Content,olive,251.58,88.98,Fruit,29.19,c9858f06,1992/11
+85,"Powell, Miller and Henderson Methodologies",olive,737.89,176.40,Jewelry,60.83,d69d9ca3,1993/04
+86,"Juarez, Smith and Reed Niches",lime,569.04,300.06,Jewelry,26.69,3706a27e,1940/01
+87,Bell PLC Systems,gray,568.81,175.68,Toy,31.53,bcd2ab16,1966/11
+88,Brown LLC E-markets,blue,295.41,200.87,Umbrella,37.16,0cf0c28b,1948/06
+89,Matthews-Steele E-services,white,539.99,129.16,Toy,47.77,38c4383b,2001/10
+90,James LLC Experiences,silver,105.89,70.77,Umbrella,33.81,1338b54a,1986/07
+91,Bryant-Chan Architectures,yellow,837.23,278.81,Fruit,32.17,0d89e811,1977/11
+92,"Alexander, Lyons and Gomez Networks",green,659.85,127.04,Jewelry,12.47,29b50840,1947/01
+93,"Long, Austin and Perez Methodologies",blue,363.74,191.79,Fruit,13.49,310bb08d,1950/08
+94,Fields PLC Services,navy,142.16,85.51,Jewelry,29.48,70e850fc,1939/06
+95,"Brown, Williams and Rosario Channels",purple,379.87,240.21,Fruit,32.93,96829500000,1967/09
+96,Williams-Ross E-commerce,silver,385.05,167.33,Toy,54.30,aef70a0d,1991/12
+97,Cooper-Reynolds Convergence,green,130.70,58.28,Basket,43.57,d9c1310a,1958/01
+98,Lowe-Benson Metrics,yellow,696.04,284.66,Toy,4.92,d23065bb,1985/06
+99,Owens Inc Services,yellow,126.51,119.12,Fruit,54.35,50a94dbb,1939/01
+100,"Morrison, David and Abbott Metrics",maroon,44.82,36.47,Jewelry,14.32,c25ddbfd,1992/02
+101,"Carlson, Hernandez and Lin Services",yellow,227.26,108.83,Toy,2.32,49b6d454,1986/10
+102,Vargas Ltd Niches,blue,289.60,125.30,Fruit,9.12,ef65ca56,1963/05
+103,"Gomez, Boyer and Thomas Methodologies",blue,168.26,102.86,Toy,13.12,e01e939b,1994/02
+104,Dennis Group Roi,gray,109.76,44.06,Umbrella,28.94,e72e44ff,1986/05
+105,Diaz Ltd Vortals,fuchsia,"1,203.80",518.46,Toy,32.02,3e7dfff2,2006/10
+106,"Moore, Johnson and Allen Supply-chains",aqua,301.06,214.34,Jewelry,57.71,b429891f,1999/01
+107,Hicks Inc Experiences,purple,163.15,83.46,Fruit,47.71,194698b3,1939/08
+108,Murphy-Jones Users,yellow,384.77,247.56,Jewelry,62.59,30f87693,1986/05
+109,Moon LLC E-tailers,fuchsia,293.06,143.96,Jewelry,38.37,8f953e08,2004/03
+110,Rivas and Sons Systems,teal,139.14,34.42,Basket,9.35,36342a00,1942/02
+111,Miller-Howard Partnerships,blue,398.42,341.85,Umbrella,61.09,5b48a328,1978/08
+112,"Burns, Morton and Jackson Functionalities",lime,386.70,219.17,Bead,41.17,c40f7a8f,1954/12
+113,Hamilton-Hill Platforms,aqua,360.07,265.55,Umbrella,56.28,4cc1c33f,1978/10
+114,Salazar-Robinson Vortals,gray,713.13,144.76,Jewelry,16.79,a5997f62,1999/04
+115,Mcconnell-Anderson Portals,olive,529.49,127.35,Basket,27.44,0d195cef,1996/02
+116,Scott Inc Mindshare,white,262.13,136.37,Toy,31.36,1bd8b4b7,1979/07
+117,"Cruz, Smith and Jordan E-commerce",green,343.52,178.45,Jewelry,29.88,4ac8debd,1972/09
+118,Powell-Nichols Bandwidth,yellow,"1,035.01",677.20,Toy,49.76,3e0e4100,1986/01
+119,Alvarez-White Models,yellow,141.23,80.40,Toy,25.71,b635bf1a,1996/03
+120,"Frye, Butler and Erickson Content",blue,457.71,318.63,Fruit,13.45,0daad3f1,1955/01
+121,Roberts-Powell Bandwidth,navy,246.88,39.27,Toy,43.40,7650cade,1958/01
+122,Howell-Hernandez Schemas,blue,343.87,234.03,Bead,48.56,7c850b4f,1968/08
+123,"Hale, Dixon and Johnson Applications",green,623.02,369.38,Fruit,23.52,aa2d34d9,1989/10
+124,Garcia-Gutierrez Channels,maroon,793.05,533.80,Jewelry,24.69,1dbd6306,1945/01
+125,Grant LLC Relationships,blue,669.88,505.85,Jewelry,54.68,b20864b2,1979/02
+126,Howard Group Paradigms,lime,245.79,175.83,Coffee Mug,45.29,d2ac5c7e,1970/04
+127,Cross-Perry Models,green,174.09,64.89,Umbrella,4.96,2c52b4f0,1992/03
+128,Brown Ltd E-markets,navy,512.25,265.17,Toy,32.43,3a4e5071,1981/07
+129,Tate-Griffith Schemas,navy,208.14,76.37,Umbrella,53.41,c144e1dd,1970/04
+130,Wagner Inc Portals,silver,386.19,221.58,Toy,62.88,85473133,1989/04
+131,Ortiz and Sons Portals,green,138.65,70.45,Fruit,30.17,dd6e8c23,1947/05
+132,Williams-Rowe Interfaces,lime,785.82,266.30,Jewelry,43.98,c1daac21,1983/08
+133,"Reed, Pena and James Content",yellow,326.53,118.69,Toy,8.77,1e219a9f,1951/04
+134,"Brown, Williams and Rosario Channels",lime,289.94,184.34,Toy,8.39,ea5a7236,2003/09
+135,Olson-Perez Portals,white,232.89,32.73,Toy,37.57,c5b9ce02,1992/02
+136,"Wolfe, Houston and Zamora Infrastructures",silver,327.11,169.08,Jewelry,33.18,38e2f361,1987/01
+137,Maynard LLC Partnerships,black,164.47,24.15,Fruit,42.73,d2b04b47,1961/07
+138,Terry LLC Paradigms,navy,176.63,119.88,Bead,63.45,dff2c8b3,1973/04
+139,Mueller Group Bandwidth,green,226.52,102.28,Toy,17.45,56176736,1942/08
+140,Jordan-Sullivan Convergence,olive,508.87,390.58,Fruit,2.55,700e74a4,1990/11
+141,"Juarez, Smith and Reed Niches",maroon,744.22,714.15,Toy,33.73,315fa2d4,1996/06
+142,Lee and Sons Models,yellow,389.20,206.19,Toy,21.52,5b755266,2008/06
+143,Hernandez LLC Architectures,olive,638.09,462.87,Jewelry,40.16,794efb52,1943/08
+144,Hernandez-Thornton Portals,white,62.11,56.98,Jewelry,23.04,1d878562,1984/01
+145,"Fernandez, Scott and Stanton Channels",olive,246.46,154.08,Toy,44.23,bfaad3a6,1990/06
+146,White and Sons Portals,navy,497.33,194.71,Umbrella,57.31,90fc2406,1977/01
+147,Alexander-Cook Communities,olive,210.93,86.43,Jewelry,44.09,8b7bbcc9,1986/06
+148,Carter-Gilbert Experiences,teal,596.63,364.99,Fruit,7.61,a32c63d0,1949/04
+149,"Keith, Lee and Fitzgerald Eyeballs",olive,321.42,201.50,Toy,60.12,2bd15b41,2006/07
+150,Wilson PLC Interfaces,olive,290.23,103.19,Umbrella,52.56,404e6825,1965/06
+151,"Bowman, Morrison and Chen Roi",fuchsia,559.14,179.95,Toy,7.38,7ef852dc,1971/04
+152,Jennings and Sons Supply-chains,maroon,731.93,357.74,Jewelry,48.91,5a738804,2002/09
+153,Aguilar-Lawrence Vortals,gray,134.37,120.39,Jewelry,57.04,f0fbadfb,1956/06
+154,Armstrong-Castillo Networks,green,331.40,251.54,Toy,12.76,abf184d4,1947/11
+155,"Marks, Pearson and Pierce Schemas",purple,124.30,94.59,Jewelry,11.53,742242c1,2001/03
+156,Luna LLC Portals,teal,411.44,124.44,Toy,48.21,8fba0951,2008/06
+157,Morgan-Escobar Paradigms,fuchsia,572.21,210.15,Toy,59.45,b7fb99b3,1968/04
+158,Delgado PLC E-markets,maroon,"1,011.49",523.69,Toy,28.42,b1cebbb5,1975/06
+159,Graham LLC Metrics,navy,678.25,447.29,Toy,42.06,ab2f82ef,1991/03
+160,Mcpherson LLC Niches,lime,507.67,300.15,Basket,62.88,e6ea88d0,1963/07
+161,Hines-Martinez Supply-chains,lime,404.69,323.55,Fruit,35.13,a7ee7b1a,2000/03
+162,Hardy-Brooks Eyeballs,white,596.87,242.33,Toy,21.95,4e632147,1951/08
+163,"Frank, Horne and Nelson E-markets",teal,461.89,251.96,Jewelry,16.88,83af2f23,1948/03
+164,Bauer-Pacheco Supply-chains,blue,755.60,509.02,Fruit,54.62,7544f88f,1976/10
+165,Reed LLC Initiatives,purple,357.42,146.19,Toy,18.93,4351dd65,1953/10
+166,Fisher Inc Communities,green,371.32,157.92,Basket,31.81,7b1436c1,1964/05
+167,Grant-Cooley Solutions,teal,221.67,63.24,Fruit,7.46,0d1b4c27,1938/11
+168,White-Douglas Convergence,green,120.98,30.95,Toy,30.10,1d75ac1b,1953/01
+169,"Marshall, Herrera and Mills Channels",black,243.25,110.58,Bead,4.47,4c6058ce,1958/09
+170,"Nguyen, Edwards and Kirby Roi",gray,602.74,273.31,Toy,56.87,898c6084,1964/05
+171,Trujillo Inc E-business,maroon,759.44,409.86,Fruit,4.05,f8db2be2,2005/09
+172,West-Mercado E-business,blue,269.61,210.35,Fruit,18.41,202f991c,2005/08
+173,Smith Group E-commerce,navy,166.30,21.59,Umbrella,20.55,94600859,1988/07
+174,Ortiz and Sons Relationships,green,676.98,291.93,Toy,15.42,b26f13c9,1967/05
+175,Potter and Sons Schemas,silver,187.98,74.45,Toy,61.94,cdad575a,1968/07
+176,"Edwards, Alvarez and Spencer Partnerships",aqua,227.31,147.33,Fruit,32.78,9db3d87d,1950/11
+177,Reed-Rivas Partnerships,navy,657.60,295.74,Jewelry,49.52,dbc4e882,1943/04
+178,"Page, Donovan and Armstrong Platforms",green,760.30,527.46,Fruit,55.46,3ede01ac,1960/03
+179,Miller-Payne Info-mediaries,purple,274.13,109.96,Toy,33.79,896d6577,1966/11
+180,Shepherd-Garcia E-commerce,lime,480.64,361.03,Fruit,26.33,cd35df74,1983/11
+181,"Avila, Glover and Dean Architectures",gray,897.95,770.01,Fruit,16.38,49174b4a,1955/02
+182,Jones-Knox Communities,navy,295.26,133.79,Jewelry,33.38,e9494c09,1992/05
+183,Bass-Smith Relationships,yellow,464.49,215.65,Fruit,22.70,730e4b5a,1991/01
+184,"Ford, Bryant and Ramirez E-tailers",black,221.53,121.31,Jewelry,17.31,1b480f23,1939/01
+185,"Butler, Duncan and Schroeder Channels",navy,675.16,282.36,Jewelry,53.54,540c22c9,1978/09
+186,"Short, Wood and Smith Bandwidth",olive,440.65,93.96,Fruit,52.75,9fd3b7c6,1966/11
+187,"Miller, Larson and Sutton Platforms",black,457.25,332.52,Toy,44.13,134c0513,1959/04
+188,Adkins-Brown Methodologies,black,488.07,245.50,Fruit,4.46,443b9d39,1970/07
+189,Martin Ltd Niches,teal,394.06,70.86,Jewelry,60.16,e2835d7c,1965/10
+190,Howell-Hernandez Schemas,silver,520.31,58.75,Bead,11.64,353649cb,1977/03
+191,"Martin, Flores and Cruz Applications",silver,789.97,360.04,Bead,55.83,d264ab4d,2004/02
+192,Donovan Inc Channels,aqua,"1,210.99",686.00,Fruit,30.90,a003c5cb,1971/03
+193,Fry and Sons Relationships,teal,654.45,420.13,Jewelry,7.10,55bd5863,1986/05
+194,Alvarez Ltd Synergies,green,444.22,215.37,Fruit,2.41,803d5d94,1954/04
+195,James and Sons Methodologies,white,161.22,38.61,Jewelry,56.01,b53c7dcb,1989/11
+196,"Clark, Walker and Perez Functionalities",gray,303.05,133.74,Toy,3.11,0dd19266,1963/06
+197,"Collins, Dennis and Ramirez Partnerships",silver,824.41,365.14,Jewelry,2.96,f973bb83,1965/02
+198,Jensen-Petersen Bandwidth,teal,367.93,170.39,Toy,42.77,2a346cf2,1980/05
+199,"Pitts, Walker and Bartlett Mindshare",black,483.42,331.68,Jewelry,48.01,b59d19ab,1976/10
+200,Wright Inc Portals,white,326.54,212.73,Toy,47.01,d37c4745,1984/05
+201,Singleton-Banks Metrics,blue,217.71,108.68,Fruit,21.01,3affceaa,1961/02
+202,Mcclain-Davis Models,gray,167.34,122.66,Bead,11.47,0d5dfdee,1960/05
+203,Floyd-Moran Bandwidth,green,484.77,133.39,Jewelry,12.25,69526853,1998/08
+204,Boyd PLC Metrics,maroon,156.35,113.60,Paint,25.52,57d6a876,1981/01
+205,"Wagner, Dawson and Ellis E-commerce",navy,911.11,471.58,Toy,50.13,6a7ccaa9,1997/05
+206,Ramos-Harris E-business,olive,525.90,264.84,Jewelry,35.34,4f20cbe8,1961/03
+207,Douglas-Martin Content,blue,278.33,135.91,Bead,42.05,bfe912a5,1965/04
+208,"Blair, Johnson and Brown Convergence",blue,396.24,152.22,Basket,15.41,ac47b454,1992/06
+209,"Holden, Silva and Mckinney Models",purple,297.37,176.86,Jewelry,29.81,c5527680,2005/03
+210,Banks-Ferguson Eyeballs,green,710.17,470.63,Jewelry,26.44,f8cd1f4a,1989/03
+211,"Griffin, Morrison and Bond Content",purple,580.04,160.21,Toy,20.39,ca57260c,1995/02
+212,Williams-Prince Models,silver,496.80,402.54,Toy,18.92,c17af74a,1972/06
+213,Carter-Gilbert Experiences,navy,599.86,551.29,Jewelry,17.51,cbbfea93,2006/03
+214,Fernandez LLC Channels,navy,58.18,45.71,Toy,60.66,8130036e,1941/11
+215,Johnson-Barnett Metrics,purple,163.33,119.21,Umbrella,40.13,aa5c13cc,1987/11
+216,Rogers-Harris Functionalities,blue,438.92,296.39,Coffee Mug,48.01,4.571E+291,1991/05
+217,"Smith, Aguilar and Garner Partnerships",gray,371.48,40.92,Paint,41.12,fc3cf8c7,1945/03
+218,Rodgers and Sons Functionalities,purple,210.73,179.80,Jewelry,57.56,b9cff8da,1952/04
+219,Lee PLC Web-readiness,yellow,206.54,155.06,Fruit,47.09,6afab060,1947/11
+220,"Duncan, Burke and Smith Infrastructures",yellow,309.31,137.76,Fruit,41.49,1543e417,1950/07
+221,Guzman Inc E-business,purple,248.60,12.48,Bead,30.52,595f0181,1988/09
+222,Singleton-Banks Metrics,blue,236.57,208.53,Fruit,29.74,1351ac70,1954/09
+223,Armstrong Ltd Niches,olive,402.91,7.39,Fruit,22.12,7888b29c,2003/07
+224,"Chambers, Brooks and Jones Applications",aqua,932.22,754.96,Fruit,58.57,453fd34a,1960/09
+225,Singleton-Schroeder Info-mediaries,gray,281.33,247.44,Jewelry,52.63,12beed67,1959/12
+226,Gibbs-Campbell Content,blue,551.49,472.05,Fruit,6.30,1aacc811,1971/11
+227,"Lawson, Thomas and Curtis Partnerships",silver,687.90,238.02,Fruit,51.16,9f8d7037,2003/05
+228,"Lee, Nguyen and Myers Deliverables",gray,583.88,296.82,Umbrella,60.37,415ef746,1946/05
+229,Taylor and Sons Architectures,silver,397.04,231.34,Toy,21.92,5e2433b5,1963/03
+230,English Ltd Mindshare,white,"1,186.09","1,057.77",Fruit,8.61,1df0fd76,1995/11
+231,Lane LLC Action-items,green,297.98,102.53,Fruit,29.25,e3598cbd,1948/10
+232,Mcclure-Jones Vortals,purple,214.41,136.25,Jewelry,46.89,c8a5a6a0,1942/07
+233,Harris-Jones Models,purple,731.11,349.96,Bead,25.93,4692a983,1953/07
+234,"Evans, Carrillo and Brown E-tailers",teal,129.49,30.57,Toy,55.94,082d24e2,1961/03
+235,"Brown, Anderson and Rodriguez Deliverables",olive,146.42,55.11,Toy,47.93,7ee77bce,1940/11
+236,Brown Inc E-business,purple,240.39,74.12,Toy,7.75,6014842b,1958/10
+237,Fischer-Nixon Technologies,blue,222.73,43.38,Basket,62.76,1ad0f304,1954/05
+238,Dorsey-Cunningham Channels,purple,461.18,37.45,Toy,51.57,785a1044,1951/01
+239,Smith Ltd Markets,teal,553.17,162.86,Jewelry,4.87,67ec49fd,1986/08
+240,Perkins PLC Synergies,navy,881.48,779.16,Basket,45.97,a00b5d53,1998/08
+241,"Acosta, Gonzalez and Petersen Functionalities",lime,384.65,222.09,Toy,14.68,ff4efafe,2006/07
+242,King-Lucas Initiatives,silver,104.42,64.92,Jewelry,63.53,b14b959d,1940/11
+243,Scott-Soto E-services,navy,926.48,349.96,Toy,13.45,fd83cb29,1970/11
+244,Perkins-Sullivan Applications,gray,171.32,156.86,Basket,39.02,bf6989c7,1971/03
+245,"Silva, Guzman and Jenkins Bandwidth",gray,538.64,220.73,Fruit,33.76,63ff6717,2006/02
+246,Martinez Ltd Methodologies,silver,427.97,317.15,Jewelry,40.89,f4620323,1963/09
+247,Watkins and Sons Networks,yellow,518.41,239.56,Bead,42.54,fb59b672,2002/06
+248,"King, Holmes and Munoz Networks",silver,341.00,151.24,Bead,57.38,18f426b4,1999/08
+249,Miller-Stephens Portals,white,"1,035.00",453.57,Bead,26.95,982a377a,1973/05
+250,Jackson-Malone E-commerce,silver,624.44,379.28,Toy,42.01,83a140e2,1997/11
+251,"Ibarra, Burch and Carroll E-services",olive,302.03,271.57,Fruit,40.56,f83409c3,1974/07
+252,Harrison-Trevino Technologies,lime,951.60,505.51,Toy,54.24,a0722689,1962/10
+253,Hicks Inc Experiences,yellow,81.20,23.30,Fruit,34.71,760669cd,1999/06
+254,"Wallace, Bailey and Johnson Bandwidth",purple,806.61,500.53,Toy,48.68,168c8dc9,1995/03
+255,Torres-Dunn Vortals,white,525.54,26.19,Jewelry,55.48,68332af8,1972/11
+256,Taylor PLC Band with,blue,197.24,133.14,Toy,24.27,26f03666,1957/12
+257,Adkins-Brown Methodologies,yellow,103.04,86.33,Toy,43.90,afad3840,1996/03
+258,Cole Inc Relationships,white,187.09,52.06,Umbrella,15.26,3faa14c2,1991/05
+259,Mills-Hayes Channels,white,192.84,119.27,Umbrella,8.31,fc71551c,1974/10
+260,Ray-Long Mindshare,aqua,798.73,712.58,Bead,43.07,ae962ab4,2007/12
+261,"Martinez, Garrett and Reed Action-items",fuchsia,547.38,300.53,Fruit,8.08,b3d52335,1978/03
+262,"Morris, Harvey and Anderson Relationships",maroon,554.44,359.29,Fruit,27.40,88e90ce5,2002/10
+263,Anderson Ltd Relationships,gray,623.40,273.72,Jewelry,47.71,f4980302,1942/12
+264,Crosby Inc Initiatives,green,186.23,96.28,Fruit,34.83,9eebdf2c,2000/08
+265,Andrews LLC Info-mediaries,purple,"1,084.93",657.67,Jewelry,13.98,c9f9ff48,1960/07
+266,Crawford-Schultz Solutions,teal,"1,125.22",437.16,Toy,57.54,b8174d10,1994/09
+267,Williams-Farrell Users,aqua,282.27,161.64,Coffee Mug,18.86,8771339e,1955/04
+268,"Owen, Love and Edwards Models",black,251.12,122.72,Jewelry,47.62,2d88a3af,1978/12
+269,"Powell, Miller and Henderson Methodologies",black,219.00,129.58,Fruit,25.17,63492d70,1957/11
+270,Morris PLC Convergence,fuchsia,184.28,147.55,Fruit,55.35,a413957c,1964/08
+271,"Price, Smith and Smith Portals",lime,395.83,258.24,Umbrella,7.24,90448442,1950/04
+272,Diaz-Fowler Bandwidth,purple,189.26,125.50,Jewelry,19.02,7b786406,1973/01
+273,"Johnson, Nelson and Parker E-business",black,237.64,124.85,Basket,16.31,298e65d9,1998/07
+274,"Roberts, Wilson and Patton Info-mediaries",gray,406.82,84.43,Jewelry,25.22,0f5e331b,1972/04
+275,Clark Group Technologies,silver,599.98,440.83,Toy,15.84,cf416893,1957/01
+276,"Contreras, King and Reed E-commerce",black,282.87,128.17,Toy,34.60,ed503a0c,2007/05
+277,"Holland, Mcguire and Hayes Supply-chains",gray,150.56,33.77,Fruit,10.07,fe742c76,1957/10
+278,Castillo-Martinez Schemas,aqua,747.29,199.26,Fruit,23.89,08c350e3,1940/02
+279,Bradford PLC Convergence,olive,734.86,302.85,Toy,5.12,3c3b7d09,1943/12
+280,"Wood, Silva and Brooks Supply-chains",fuchsia,"1,277.49",885.78,Basket,22.43,1a21d100,1947/04
+281,Hawkins-Schwartz Deliverables,white,375.46,156.10,Toy,11.32,09b499cd,1947/01
+282,Thompson-Kirby E-services,navy,172.07,38.70,Toy,54.72,d46afde6,1947/10
+283,Barnett PLC Functionalities,purple,499.85,409.27,Bead,59.78,102f7062,1960/12
+284,"Fields, Hobbs and Sheppard Roi",fuchsia,251.94,80.63,Jewelry,33.16,fe2da612,1971/05
+285,"Larson, Campos and Martinez Functionalities",aqua,411.02,155.09,Toy,2.32,c4925d67,1993/11
+286,"Johnson, Myers and Hanna Systems",navy,542.75,333.43,Jewelry,46.96,e041c5b7,2001/03
+287,"Glover, Smith and Evans E-commerce",green,545.94,273.10,Fruit,28.29,6453fb9c,1955/06
+288,Jones-Harris Vortals,white,465.22,328.37,Jewelry,1.55,18366b73,1957/06
+289,Price-Casey Metrics,green,398.10,319.56,Umbrella,44.38,4a865fe0,1951/08
+290,Clements Ltd Supply-chains,purple,473.59,267.91,Basket,35.33,0ff9c083,1983/10
+291,Monroe Ltd Synergies,purple,385.37,188.93,Jewelry,19.27,97c0a44c,1941/04
+292,Sullivan-Benitez Action-items,purple,297.46,130.51,Toy,55.51,b5de6a99,1953/09
+293,Mcpherson LLC Niches,gray,631.55,310.42,Jewelry,39.31,72d5007d,2004/05
+294,Edwards-Curry Architectures,navy,95.93,2.69,Fruit,2.09,bdb8ac8d,1968/02
+295,"Marshall, Herrera and Mills Channels",maroon,341.57,221.79,Basket,36.96,cd51b127,1947/02
+296,Vargas-Richardson Synergies,blue,876.08,339.78,Toy,50.51,16a4b2d7,1988/07
+297,Williams Ltd Eyeballs,green,560.03,343.74,Jewelry,27.39,9750808c,1970/08
+298,Jackson and Sons Relationships,navy,390.06,284.76,Bead,40.35,f21aab7a,1992/08
+299,Thompson Inc Niches,green,86.54,45.80,Basket,17.00,e1376237,1947/03
+300,"Gonzalez, Cruz and Gutierrez Models",lime,416.46,192.06,Jewelry,33.40,bf27ff60,1984/03
+301,Smith Group Metrics,aqua,277.98,138.18,Jewelry,43.35,e28e8f1d,1985/04
+302,Bishop-Rasmussen Portals,gray,130.95,87.50,Jewelry,61.11,1df2c6d8,2001/12
+303,"Baker, Valenzuela and Miranda Infrastructures",green,584.34,384.52,Fruit,39.23,ea270a18,1987/05
+304,"Nicholson, Durham and Henderson Roi",gray,350.71,204.40,Fruit,49.55,af2e8175,1988/11
+305,"Stephens, Carter and Evans E-markets",white,498.62,391.70,Fruit,20.25,80936080,1971/04
+306,"Fuentes, Martinez and Sanders Relationships",olive,172.16,125.57,Basket,35.67,3a29494e,1958/01
+307,"Smith, Quinn and Nichols Web-readiness",fuchsia,232.01,120.34,Umbrella,47.43,a1c45149,2007/09
+308,Byrd-Rose E-business,olive,640.38,539.73,Toy,12.55,3b660833,1969/09
+309,Hardy PLC E-commerce,navy,167.70,57.20,Umbrella,1.56,f34dd7b9,1958/10
+310,Wilkins LLC Technologies,maroon,496.67,448.57,Jewelry,28.74,78093c2b,1966/02
+311,Cooper-Reynolds Convergence,olive,604.65,386.73,Jewelry,52.72,c9f45407,1949/02
+312,"Butler, Duncan and Schroeder Channels",navy,648.13,259.89,Fruit,29.60,8520e591,2004/03
+313,Thomas-Rodgers Metrics,aqua,250.26,195.67,Basket,40.16,c67d0dbe,1987/06
+314,Kelly Inc Paradigms,lime,784.87,59.75,Jewelry,47.36,aad3a36b,1998/01
+315,Moore-Tucker Metrics,lime,507.62,136.92,Coffee Mug,12.79,0963bae5,1958/09
+316,Rodgers Ltd Info-mediaries,gray,232.06,158.11,Paint,28.72,74439b8e,2000/01
+317,Oconnor-Alvarez Roi,aqua,101.00,3.01,Jewelry,5.58,92b5c4b9,1962/08
+318,Sawyer and Sons Action-items,black,191.91,154.62,Bead,47.88,4e2162a4,1990/03
+319,Scott-Ballard Services,white,610.80,240.58,Jewelry,57.46,03e3dbae,1980/06
+320,Ramirez PLC Web-readiness,yellow,621.75,321.97,Toy,47.63,6a851707,1945/09
+321,"Larson, Shaw and Patterson Interfaces",navy,88.79,52.58,Umbrella,2.06,0b10c8d6,1973/10
+322,"Dominguez, Hall and Mason Applications",fuchsia,157.49,47.95,Jewelry,50.23,5fad05b9,1939/04
+323,Vega Ltd Infrastructures,white,644.31,293.42,Basket,62.86,0f4694e0,1992/09
+324,Gill Inc Mindshare,gray,205.87,67.69,Jewelry,46.47,cddc0212,1978/01
+325,"Wright, Olson and Pope Markets",olive,569.93,106.12,Toy,45.53,5442f439,1965/01
+326,"Love, Nelson and Cannon Infrastructures",maroon,160.62,48.27,Toy,63.36,c6c4f243,1946/04
+327,"Sanders, Jackson and Cole Vortals",olive,869.35,522.72,Jewelry,51.66,1ac6f48f,1995/08
+328,"Kelly, English and Lewis Convergence",green,732.22,667.28,Jewelry,27.91,d1bfe482,1956/07
+329,"Massey, Gonzalez and Pierce E-business",aqua,376.94,137.18,Fruit,34.96,c5d4792d,1966/02
+330,Smith LLC Functionalities,lime,622.14,250.41,Toy,63.61,248d4f7f,2007/09
+331,Walters PLC Initiatives,fuchsia,754.02,300.81,Toy,22.92,a2310a31,1977/08
+332,"Brown, Williams and Rosario Channels",gray,531.27,157.60,Jewelry,17.98,5c4b22d8,1977/07
+333,Sherman Group Niches,lime,278.04,131.89,Toy,57.70,cf4c5b1e,1985/05
+334,Wright-Roth Initiatives,green,934.07,501.17,Toy,56.26,6b0ca8ef,1992/01
+335,Dillon Inc Platforms,purple,437.54,242.46,Toy,55.77,88bbab6a,1991/07
+336,Norris and Sons Partnerships,blue,310.29,196.57,Bead,46.33,91c427ea,1983/12
+337,Kaufman-Hill Vortals,black,70.99,34.81,Paint,55.27,4be9296b,1973/07
+338,Valenzuela PLC Architectures,white,22.70,7.55,Toy,22.14,115ffa5e,1953/01
+339,"Page, Donovan and Armstrong Platforms",fuchsia,943.88,358.21,Umbrella,28.23,66a31af5,1961/04
+340,Scott Inc Mindshare,aqua,658.32,348.38,Jewelry,6.27,ef135ccc,1978/03
+341,"Frazier, Douglas and Pope Networks",black,328.59,170.88,Jewelry,34.71,ca119006,1945/07
+342,Hobbs-Davis Applications,purple,451.67,286.85,Fruit,45.05,fbe9ba87,1966/04
+343,Crawford-Schultz Solutions,gray,335.57,129.46,Umbrella,52.00,d91b961e,1956/07
+344,Collins-Stewart Bandwidth,yellow,498.83,310.89,Bead,56.09,3d8a0309,1987/06
+345,"Taylor, Phillips and Cunningham Architectures",silver,799.26,560.39,Toy,7.48,1cdd65a3,1997/09
+346,Colon-Snyder Partnerships,white,510.58,313.52,Bead,26.36,25240155,1946/12
+347,Maldonado-Wise Interfaces,yellow,887.62,832.82,Toy,30.97,b8835044,2005/04
+348,Smith-Burton Web-readiness,lime,167.88,95.39,Jewelry,41.96,79d6a1a7,1975/05
+349,Duke PLC Eyeballs,lime,184.78,83.14,Jewelry,53.34,eb3b7a34,2001/10
+350,"George, Evans and Holt E-commerce",silver,308.29,171.51,Jewelry,56.89,3913d066,1955/09
+351,"Craig, Fletcher and Huber Content",gray,"1,041.61",413.48,Umbrella,59.70,842fc2ea,1960/03
+352,Olson-Perez Portals,fuchsia,485.20,197.22,Fruit,15.18,734eaa92,1966/12
+353,Miller-Short Web-readiness,gray,396.01,186.24,Bead,34.96,ed23eb0d,1987/02
+354,Kennedy Inc Metrics,lime,400.10,126.61,Jewelry,38.10,f1948eeb,1982/08
+355,"Mora, Austin and Stewart Systems",black,768.68,748.95,Jewelry,36.14,35977f7f,1982/09
+356,Warren Inc Portals,fuchsia,441.08,338.02,Bead,21.89,6fd5f80a,1959/07
+357,Reynolds and Sons Synergies,blue,72.12,15.32,Jewelry,42.31,438128f9,1967/06
+358,Smith-Hernandez E-markets,silver,172.97,147.53,Toy,19.66,0df4f3d2,1951/03
+359,Harris and Sons Bandwidth,aqua,164.92,96.55,Jewelry,9.51,17aa728c,1965/12
+360,Potter-Moore Action-items,olive,331.27,264.09,Basket,12.13,0e21ac23,1949/06
+361,"Smith, Gonzales and Johnson Communities",gray,482.93,266.27,Jewelry,60.71,5e28b844,1953/06
+362,Meza Ltd Supply-chains,teal,627.94,308.11,Toy,36.67,aa014560,1987/09
+363,Ferguson-Spears Vortals,lime,266.10,188.87,Paint,36.63,b8356ff3,1946/05
+364,Chavez-Gentry Bandwidth,purple,472.36,246.88,Fruit,61.46,1520b658,1966/10
+365,Garcia-Gutierrez Channels,purple,169.15,96.42,Jewelry,60.07,bef87bb5,1942/06
+366,Pruitt-Hogan Synergies,silver,183.87,72.35,Bead,63.42,af509f0d,1959/10
+367,Sanchez-Allen Models,lime,87.24,35.60,Toy,52.13,402dc56b,1970/07
+368,"Moore, Scott and Moore Convergence",green,309.21,75.17,Jewelry,41.53,4b7fc854,1978/05
+369,Mason-Martin Systems,yellow,440.89,174.21,Toy,19.31,a0e7fd39,2002/10
+370,Bautista Ltd E-tailers,aqua,299.44,65.68,Toy,32.82,f4455802,1938/10
+371,"Smith, Rice and Manning Channels",teal,484.53,367.74,Umbrella,4.61,45ef9399,1992/03
+372,"Colon, Shea and Chapman Info-mediaries",black,422.53,91.66,Jewelry,25.31,6396e88b,1977/09
+373,Harper LLC E-tailers,black,338.71,81.41,Jewelry,17.85,abdff2a7,1979/03
+374,House-Cooper Vortals,fuchsia,450.75,343.62,Fruit,29.28,041f8d4c,1978/09
+375,Robinson-Michael Experiences,gray,815.23,538.63,Jewelry,24.93,936d9859,1966/06
+376,Johnson-Jones Portals,green,348.15,228.94,Paint,35.95,8e0fdd14,1963/11
+377,"Mckinney, Thompson and Torres Users",green,275.49,95.38,Umbrella,32.75,3e3abc62,2004/07
+378,"Garcia, Mccarthy and Allen Applications",gray,641.62,57.82,Toy,61.13,cec2d19d,1942/05
+379,"Turner, English and Murray Networks",yellow,472.25,409.92,Jewelry,46.36,ad522818,1959/10
+380,Sparks PLC Portals,gray,336.05,223.88,Fruit,19.34,cd06e2a0,1980/08
+381,"Sanders, Jackson and Cole Vortals",white,473.98,298.52,Fruit,33.04,a27510d5,1970/12
+382,"Foley, Gray and Norton Markets",teal,734.73,280.38,Jewelry,27.27,43d51298,1954/06
+383,"Boyd, Conner and Williams Portals",navy,471.64,269.69,Bead,37.24,63289165,1950/03
+384,Kennedy-Kelley Content,fuchsia,631.61,346.86,Toy,35.98,13045228,1942/01
+385,Mendez Ltd E-services,aqua,757.09,547.76,Fruit,10.98,9c88111a,1988/05
+386,Young and Sons Technologies,fuchsia,586.66,157.29,Toy,14.05,18b6a9cd,1953/09
+387,"Maldonado, Cox and Blair Supply-chains",yellow,139.21,119.19,Toy,11.80,1687cc8e,2001/07
+388,"Woodard, Eaton and Harris Web-readiness",gray,991.08,406.36,Toy,13.68,2628cc59,1954/06
+389,"Schroeder, Buckley and Ramirez Portals",aqua,540.38,203.23,Fruit,17.72,82f34970,2004/11
+390,Allen Ltd Info-mediaries,white,189.33,121.63,Toy,5.78,d1726fa4,1974/02
+391,"Calderon, Cuevas and Boone Partnerships",yellow,273.46,188.79,Fruit,8.67,c4832251,1950/02
+392,Brady Group Portals,blue,"1,100.67",195.39,Jewelry,24.25,ffca2e70,1970/07
+393,Harrell-Hudson Schemas,aqua,458.01,204.12,Jewelry,15.52,521cc01d,1947/11
+394,"Watson, Wilson and Bryan Services",yellow,156.42,79.91,Paint,39.34,647d6d93,2001/09
+395,"Lynch, Hall and Clark Paradigms",silver,466.99,252.79,Toy,33.72,74b86863,1980/06
+396,Cohen-Brennan Communities,purple,405.04,125.13,Jewelry,28.77,8c0fdcf3,1960/08
+397,Myers Ltd Methodologies,aqua,369.29,208.60,Umbrella,10.70,7e1ebc31,2003/01
+398,Lewis-Hernandez Technologies,gray,32.61,25.75,Toy,4.61,09124f31,1965/06
+399,"Smith, Quinn and Nichols Web-readiness",blue,52.00,43.26,Fruit,1.23,2a024cf1,1961/06
+400,"Young, Hess and Mcbride Platforms",fuchsia,480.67,236.24,Coffee Mug,14.60,41de24a5,1965/11
+401,Grant LLC Relationships,lime,610.25,158.61,Basket,6.23,59a092c9,2006/04
+402,"Chang, Duran and Evans Portals",navy,76.53,40.72,Fruit,24.67,3e1f6f68,1972/04
+403,"Clark, Ball and Lewis Vortals",teal,75.75,29.66,Toy,63.61,e3d6b2d0,1972/04
+404,"Mendez, Hopkins and Gardner Methodologies",purple,634.11,147.60,Basket,8.40,29222157,2000/04
+405,Simmons-Davenport Channels,blue,333.52,230.87,Fruit,25.34,77a4bdf9,1966/08
+406,Moran Group Content,navy,575.98,63.29,Toy,22.96,4590081e,1997/09
+407,Rogers-Harris Functionalities,silver,383.58,124.05,Jewelry,1.07,645cf4eb,2006/10
+408,"Gutierrez, Serrano and Sanchez Convergence",yellow,193.48,69.71,Jewelry,42.35,2b42ac31,2003/11
+409,Gardner-Trujillo Networks,blue,523.62,293.79,Jewelry,59.39,a18ef218,1939/10
+410,Ford-Gonzalez Communities,purple,279.70,160.79,Fruit,2.56,2486a935,1954/05
+411,Gonzalez and Sons Methodologies,aqua,284.20,174.30,Fruit,29.72,0838bdf1,1952/11
+412,Smith-Anderson Supply-chains,black,236.69,205.13,Fruit,13.96,66bd1fbd,1996/10
+413,Curry-Lewis Architectures,black,501.53,212.19,Basket,59.14,d5a0382f,1998/12
+414,Griffith Inc E-services,yellow,551.32,148.84,Jewelry,33.32,57fa01b0,1951/12
+415,Floyd-Moran Bandwidth,gray,157.53,137.00,Jewelry,18.47,6149e6f9,1996/01
+416,Robinson PLC Metrics,blue,917.15,303.18,Umbrella,50.37,6653dfc7,1977/10
+417,Thompson-Nixon Markets,blue,57.32,33.69,Jewelry,56.24,d7088ec8,1973/08
+418,Roberts-Simmons Synergies,silver,"1,016.41",133.36,Toy,57.54,00b5550b,1973/07
+419,"Nguyen, Fisher and Holden Vortals",blue,384.38,165.85,Toy,12.09,c3ce8cdf,1983/01
+420,Ryan LLC Markets,yellow,225.75,42.30,Paint,59.34,a7e24853,1942/11
+421,Williams Group Metrics,olive,939.00,473.30,Basket,46.63,0d87a5f0,2007/05
+422,Anderson and Sons Deliverables,olive,311.20,238.68,Fruit,52.79,4e49374c,1940/01
+423,"Long, Owens and Garcia Relationships",green,496.31,103.74,Umbrella,19.50,afa04760,1999/12
+424,Jones-Ware Communities,silver,675.25,434.03,Toy,49.52,19651f1d,1981/11
+425,Wilson Inc E-tailers,black,510.74,212.64,Umbrella,43.26,4ab718f7,1962/07
+426,Vasquez-Gonzalez Systems,purple,103.37,88.46,Toy,49.40,94a2e068,1950/09
+427,"Gonzales, Wade and Fisher Action-items",navy,353.40,274.14,Fruit,48.27,fa52633a,1959/12
+428,"Martin, Colon and Norton Relationships",silver,440.20,320.87,Toy,22.01,d09c06b9,1954/03
+429,"Mathews, Hardy and Tyler Content",fuchsia,86.81,72.84,Jewelry,16.88,4573fdd1,2000/08
+430,Cooper-Taylor Metrics,maroon,188.63,100.26,Basket,42.86,4c724e41,1995/05
+431,"Harris, Armstrong and Lee Technologies",black,317.77,267.16,Jewelry,28.86,8e5afa3e,1945/08
+432,Barrett-Sandoval Bandwidth,blue,591.02,131.12,Jewelry,6.14,4b86a145,1947/12
+433,"Gordon, Johnson and Lane Info-mediaries",maroon,357.12,100.14,Jewelry,22.70,7c574d80,1964/02
+434,Haynes Inc Info-mediaries,purple,176.86,127.76,Umbrella,57.13,0faca351,1980/08
+435,Sullivan Ltd Channels,green,"1,036.98",127.96,Toy,7.96,3d0038e0,1984/04
+436,Richardson Group Partnerships,maroon,215.44,83.56,Bead,13.06,4898d7f1,1980/05
+437,"Townsend, Mason and Duke Supply-chains",blue,457.91,289.71,Jewelry,12.56,f1a57ad4,1998/01
+438,Stuart Inc Initiatives,maroon,126.70,55.25,Toy,24.37,f8bae9bc,1989/07
+439,Fry and Sons Relationships,fuchsia,696.54,411.67,Toy,29.16,709ab54c,1945/07
+440,Patterson-Welch Partnerships,silver,379.60,147.32,Basket,49.50,5e07f65e,1982/10
+441,"Andrews, Cook and Case Partnerships",navy,479.14,393.03,Coffee Mug,7.04,f75a7035,1971/10
+442,Taylor-Bowers Interfaces,lime,399.29,192.28,Umbrella,21.90,61cf4e37,1976/04
+443,"Cox, Wyatt and Simpson Initiatives",white,428.27,229.22,Basket,41.33,57b9064e,1947/04
+444,Hayden-Herrera Markets,olive,957.71,427.88,Jewelry,13.54,52ac58cb,1982/10
+445,"Campbell, Rodriguez and Grant Experiences",purple,737.87,450.22,Fruit,41.15,d1ef5acc,1965/12
+446,Garcia-Gutierrez Channels,silver,501.58,301.52,Toy,48.17,68eed24f,2001/08
+447,Richardson LLC Architectures,lime,706.19,461.53,Paint,40.14,d8c1ed8f,1973/04
+448,"Alvarado, Yoder and Torres Mindshare",fuchsia,588.07,297.78,Jewelry,41.86,09701d44,1940/01
+449,Smith-Rivera Niches,aqua,285.16,159.67,Toy,54.55,7ef3dd75,2006/02
+450,Taylor and Sons Markets,yellow,385.09,179.15,Jewelry,33.33,a3fa3a13,2001/08
+451,Jones-Harris Vortals,olive,"1,201.99",433.84,Jewelry,34.18,f3c44b5d,1947/03
+452,Allen-Webster Models,blue,314.05,67.97,Coffee Mug,30.63,ef6c18f6,2007/09
+453,"Rogers, Knight and Cunningham Solutions",teal,197.22,141.99,Toy,27.36,46ffc8f7,1996/09
+454,Miller-Wallace Bandwidth,maroon,"1,033.84",367.64,Umbrella,51.97,39fba3ee,1995/08
+455,Wallace Ltd Technologies,teal,307.94,203.70,Fruit,37.00,2691f850,1984/10
+456,Gray LLC Experiences,lime,105.26,11.39,Fruit,39.23,b3874d21,1993/03
+457,Johnson Group Systems,yellow,441.83,230.88,Fruit,56.81,8e8c6a76,1981/11
+458,Trujillo Inc E-business,lime,427.12,330.17,Jewelry,45.31,9b7edc27,1976/06
+459,Warren PLC Vortals,teal,333.10,193.00,Toy,60.67,064db522,1967/03
+460,Fischer-Cooper Interfaces,fuchsia,338.35,51.28,Basket,30.80,7d8899e1,1990/04
+461,Wilson-Gonzalez Partnerships,maroon,408.98,188.95,Jewelry,31.33,b1249bc7,1994/09
+462,"Simon, Rogers and Hancock Info-mediaries",teal,33.37,25.58,Jewelry,44.60,e75d2e14,1984/10
+463,Cook-Swanson Systems,fuchsia,866.32,519.55,Bead,13.98,e56a3ca6,1979/06
+464,"Sullivan, Richardson and Walker Action-items",silver,359.68,113.02,Jewelry,22.06,7e68d4f1,1983/02
+465,"Fleming, Martin and Wright Channels",purple,872.68,683.27,Fruit,59.35,4b12ad47,1989/04
+466,Wilson-Curry Functionalities,lime,611.07,351.69,Toy,19.97,f4d8a3cc,1948/08
+467,Mullins Inc Communities,olive,290.70,152.55,Fruit,44.37,aa611cb0,1986/04
+468,Harris LLC Infrastructures,purple,403.41,101.08,Toy,23.33,db5f6804,1980/02
+469,Ritter Ltd Infrastructures,fuchsia,149.87,105.37,Fruit,2.22,3d5a6171,1948/12
+470,Berg and Sons Functionalities,lime,251.31,100.86,Fruit,42.57,ba0ed400,1984/11
+471,Robinson-Thomas E-services,silver,806.41,701.23,Toy,54.55,c5b47a9f,1995/09
+472,"Chambers, Brooks and Jones Applications",black,650.09,349.45,Umbrella,11.28,2a4c9b63,1990/03
+473,"Wells, Jones and Clark Networks",white,309.90,159.13,Jewelry,26.23,838e09ea,1942/06
+474,"Salinas, Cherry and Miller Interfaces",purple,826.92,518.21,Paint,42.75,e3cab755,1947/07
+475,Brown-Yang Schemas,olive,200.09,85.39,Fruit,22.41,a226ed67,1942/05
+476,Kemp-Gutierrez Action-items,maroon,223.80,114.70,Umbrella,13.47,ee47de38,2003/04
+477,Miller Group Models,green,750.92,529.42,Jewelry,25.85,2bb5c4b7,1964/01
+478,Clark Ltd Services,yellow,696.23,465.61,Umbrella,13.01,af4e0824,1963/01
+479,"Jennings, Phillips and Black Partnerships",olive,497.57,97.43,Toy,36.48,7086c671,1947/06
+480,"Wheeler, Martinez and Phillips Bandwidth",gray,822.32,607.92,Fruit,37.79,f0a1d195,1952/10
+481,Griffin Group Platforms,gray,935.60,361.24,Fruit,40.26,03978d13,1946/08
+482,"Huber, Glass and Gray Architectures",olive,386.75,164.10,Fruit,60.79,96698a75,1942/08
+483,Jordan-Sullivan Convergence,blue,652.13,442.98,Coffee Mug,42.18,0743f512,1958/10
+484,"Bailey, Porter and Cole Initiatives",maroon,81.82,49.67,Toy,8.41,c78ce90b,2002/09
+485,Garcia-Anderson Deliverables,olive,362.48,235.36,Fruit,34.10,aa14f5c2,1981/03
+486,"Cisneros, Wilson and Brown Bandwidth",blue,225.79,65.10,Jewelry,43.44,4eb45a55,1950/11
+487,"Smith, Gonzales and Johnson Communities",aqua,181.88,121.87,Fruit,23.93,0,1979/04
+488,Warner-Green Schemas,gray,552.91,320.02,Coffee Mug,32.11,5e447cf6,1950/05
+489,"Baker, Valenzuela and Miranda Infrastructures",yellow,583.92,262.25,Fruit,32.48,9f15f3f2,1995/08
+490,Hill PLC Relationships,black,103.12,79.11,Basket,35.69,b5889080,1998/01
+491,"Huang, Martinez and Martinez Platforms",blue,467.27,276.10,Umbrella,59.58,1279129a,2000/08
+492,Ortiz-Johnson Interfaces,teal,622.09,352.45,Toy,36.42,71b075ec,1968/09
+493,"Sanders, Villarreal and Rodriguez Users",olive,386.55,201.50,Fruit,18.52,9fe17633,1996/08
+494,Cohen-Brennan Communities,green,90.25,9.54,Jewelry,60.48,886b3ade,2003/09
+495,Sanders-Zamora Synergies,purple,394.24,166.73,Toy,14.45,23348215,2000/05
+496,"Lee, Harrell and Oliver Schemas",aqua,666.78,460.68,Jewelry,35.85,c2ef10b3,1942/11
+497,Perez PLC Info-mediaries,blue,424.15,297.18,Paint,24.22,9f706e68,1968/01
+498,Armstrong-Lopez Roi,purple,757.16,487.98,Toy,14.92,b5a0ba1e,1998/02
+499,Murphy-Jones Users,maroon,491.92,349.20,Bead,13.71,950940d8,1971/07
+500,"Cherry, Norman and Turner Platforms",lime,746.24,491.37,Jewelry,33.82,4854ffca,1994/10
+501,Molina Inc Bandwidth,lime,120.74,26.84,Basket,3.83,405a6afe,1983/10
+502,Mccoy Group Communities,black,399.01,196.09,Fruit,62.42,e57935a9,1953/03
+503,Gardner Ltd Convergence,lime,566.20,313.08,Basket,14.15,5cbdca58,1994/11
+504,Garcia-Stanley Mindshare,silver,62.77,52.94,Umbrella,22.25,85ab3e90,2006/01
+505,Boyd-Doyle E-services,lime,158.91,81.90,Umbrella,38.54,d4f236e8,1982/03
+506,"Clark, Munoz and Proctor Communities",olive,618.78,241.41,Jewelry,7.64,e9fe70fc,1970/09
+507,Lucero PLC Roi,gray,485.89,259.03,Jewelry,14.04,1a2ffe8a,1980/09
+508,"Armstrong, Tanner and Hopkins Mindshare",blue,259.94,89.86,Basket,47.54,e4d2a693,1985/09
+509,"Davis, Copeland and Brooks Experiences",gray,768.45,534.31,Jewelry,12.59,a730682f,1957/02
+510,Cabrera LLC Convergence,yellow,131.74,99.96,Fruit,19.92,72383556,1990/03
+511,"Steele, Stephens and Gaines Mindshare",lime,689.42,503.05,Umbrella,36.94,b7b2f8fa,1990/03
+512,"Price, Turner and Miller Deliverables",purple,435.88,298.43,Fruit,24.88,246d236f,1985/02
+513,Brown and Sons Portals,green,290.41,99.30,Toy,34.55,4e4eb152,1994/12
+514,Miller Inc Synergies,white,75.61,17.65,Fruit,2.13,fa1b79bc,1968/12
+515,Clark LLC Users,olive,238.06,122.85,Toy,32.46,ad7843ab,1987/03
+516,Howard PLC E-commerce,olive,825.87,552.89,Fruit,43.75,1d8ad093,1994/03
+517,"Hoffman, Torres and Johnson Platforms",silver,249.12,61.72,Coffee Mug,35.01,56cc203e,1973/05
+518,"Johnson, Schmidt and Castillo Web-readiness",silver,407.76,169.32,Toy,15.61,ebaafeb0,2002/02
+519,"Fields, Williams and Ortiz Supply-chains",purple,722.08,310.17,Toy,29.90,2d6b0e02,1942/09
+520,Butler and Sons Metrics,aqua,284.32,157.54,Jewelry,51.88,0c6f9d06,1980/03
+521,Zamora Group Web-readiness,lime,871.45,487.63,Toy,21.50,f452bd66,1947/07
+522,Smith-Saunders Partnerships,white,594.37,501.17,Umbrella,41.79,65dc4b72,1967/05
+523,Heath-Rivera Users,lime,646.70,273.74,Toy,49.25,d9371827,2003/07
+524,"May, Rogers and Hess Deliverables",navy,166.43,62.53,Fruit,33.54,9a989e08,1948/09
+525,Hernandez and Sons Paradigms,white,657.68,390.71,Jewelry,59.73,8739ad26,1984/05
+526,"George, Evans and Holt E-commerce",gray,190.50,50.73,Fruit,26.75,18eee363,1976/11
+527,"Harris, Parker and White Markets",lime,409.50,248.51,Jewelry,32.78,acf4121b,1978/08
+528,Rodriguez-George Methodologies,black,174.36,116.85,Fruit,53.80,af38e9d0,1956/06
+529,Edwards-Weaver Mindshare,lime,100.61,11.43,Toy,31.15,dd05f283,1977/07
+530,"Nelson, Howard and Thomas Deliverables",black,572.56,266.21,Toy,34.61,f24c1e20,1982/12
+531,Morales and Sons Paradigms,olive,748.95,487.94,Fruit,38.64,9839de7b,1981/01
+532,Hall Ltd Communities,navy,215.93,69.99,Bead,17.41,f96b34b1,2004/12
+533,Fernandez-Davis Infrastructures,aqua,365.91,267.66,Coffee Mug,29.76,de34c99b,1943/11
+534,Kelly PLC Applications,olive,370.89,208.99,Toy,38.96,0a4b8853,1980/09
+535,Jennings and Sons Paradigms,teal,544.06,200.07,Jewelry,14.52,811fa68c,1955/02
+536,"Meza, Beasley and Ward Roi",navy,584.52,331.33,Basket,18.09,e85e0d55,1948/11
+537,Wood-Nelson Mindshare,blue,443.41,59.46,Basket,32.79,86127675,2008/01
+538,"Green, Watson and Murillo Architectures",purple,357.78,164.95,Fruit,49.32,6c597d76,1998/09
+539,Mendoza-Fisher Platforms,teal,513.51,250.47,Toy,11.06,61688d91,1997/04
+540,Bryant Ltd Functionalities,aqua,640.58,394.29,Jewelry,33.11,b5696545,1948/12
+541,Mayo-Holmes Vortals,teal,673.87,191.06,Toy,21.36,d0639bce,2005/07
+542,Cabrera PLC Relationships,blue,523.82,271.28,Toy,25.95,0e08ae15,1966/11
+543,Esparza-Stephens Bandwidth,silver,287.79,166.26,Bead,51.17,13a5735d,1977/08
+544,Clark LLC E-services,lime,436.17,103.66,Umbrella,23.73,480ac0c3,1976/11
+545,Young-Thompson Roi,white,811.02,580.39,Jewelry,11.98,fb79c499,1969/04
+546,"Brown, Lopez and Zimmerman Platforms",lime,515.38,235.70,Toy,26.47,70794517,1975/06
+547,Gibbs-Campbell Content,blue,302.45,151.56,Bead,58.70,0e473ce6,2006/02
+548,Ferguson PLC Technologies,blue,428.27,118.11,Paint,41.32,4848a16f,1985/02
+549,"Franklin, Sanchez and Taylor Convergence",aqua,607.17,271.22,Fruit,49.07,e2e7474b,1950/03
+550,"Price, Turner and Miller Deliverables",yellow,215.63,96.93,Fruit,39.16,f6af5a72,1940/12
+551,"Morris, Harvey and Anderson Relationships",black,298.52,134.89,Bead,29.66,d89bf447,1990/07
+552,Cunningham-Thomas Metrics,aqua,577.39,116.42,Fruit,27.10,0161963e,1977/02
+553,"Taylor, Thornton and Bishop E-tailers",maroon,356.92,288.78,Toy,24.01,14c4e05d,2000/04
+554,Fleming-Hernandez Communities,yellow,293.85,132.30,Umbrella,32.92,b21b52da,1994/07
+555,"White, Guzman and Turner E-services",green,110.45,43.11,Toy,46.23,76d56aaf,1948/08
+556,Torres and Sons Partnerships,purple,380.54,73.60,Fruit,2.55,9b137876,1962/05
+557,"Kline, Carlson and Shepard Technologies",yellow,396.80,204.31,Basket,19.81,39d62a79,1979/06
+558,"Ross, Williams and Kennedy Web-readiness",black,950.58,608.56,Basket,4.68,83b80741,1957/06
+559,Johnson and Sons Infrastructures,gray,133.96,99.19,Basket,40.40,a64b61d0,2003/05
+560,Murray-Barnes Platforms,silver,185.08,161.45,Paint,48.04,54421d5f,2002/04
+561,Smith-Burton Web-readiness,black,90.65,39.52,Fruit,7.20,9e3c7226,1951/03
+562,Heath Group Supply-chains,olive,391.92,120.88,Jewelry,27.05,9e38bf0d,1977/06
+563,Molina LLC Markets,aqua,58.49,27.26,Jewelry,13.44,a30d0371,2004/05
+564,Martin Inc Channels,blue,667.57,262.11,Bead,19.92,c46d943c,2005/01
+565,"Vargas, Snyder and Wilson Solutions",green,549.48,426.49,Jewelry,5.54,8beb8597,1946/07
+566,"Mcknight, Roy and Ward Interfaces",blue,328.00,179.55,Jewelry,40.27,d9578412,1951/07
+567,Cooper-Reynolds Convergence,blue,263.98,137.63,Jewelry,61.10,671cda22,1965/07
+568,"Glover, Neal and Sullivan Infrastructures",white,754.70,280.90,Toy,1.44,7f240f38,1944/03
+569,Doyle-Kramer Synergies,black,449.47,401.76,Fruit,14.40,a7172602,1990/06
+570,Bailey Group Roi,maroon,258.18,111.02,Fruit,11.61,546406b8,1955/02
+571,"Rodgers, Sherman and Evans E-business",maroon,276.57,74.23,Toy,13.06,93f6651f,1975/12
+572,"Taylor, Phillips and Cunningham Architectures",fuchsia,"1,095.90",586.84,Umbrella,48.07,d9836041,2002/04
+573,Scott-Soto E-services,maroon,320.38,213.27,Jewelry,3.27,c60df323,1943/11
+574,Williams-York Infrastructures,white,506.28,92.23,Umbrella,13.17,3ada07f2,2004/11
+575,"Campbell, Rodriguez and Grant Experiences",black,"1,005.62",972.05,Jewelry,39.32,0e8acacd,1960/04
+576,Swanson-Miller Bandwidth,aqua,438.17,78.69,Jewelry,40.88,a8aab67e,1980/11
+577,Meyer PLC Niches,lime,904.93,239.62,Toy,5.63,7a2e6a57,1986/10
+578,"Hall, Mendez and Morrison Vortals",blue,780.25,382.19,Jewelry,46.34,2d6616cc,1999/03
+579,Hanson-Hernandez E-business,black,846.40,639.69,Bead,31.84,847476de,1953/10
+580,Shaw-Lambert Paradigms,black,326.57,244.65,Jewelry,23.13,beccff3e,1980/09
+581,Cole and Sons Systems,yellow,230.86,205.81,Coffee Mug,4.06,136a28ca,1990/02
+582,Meza Ltd Supply-chains,gray,484.14,147.34,Umbrella,8.80,a08b3bbf,1994/11
+583,Sims-Young Initiatives,green,472.97,240.72,Toy,25.24,cab7d1cb,1972/03
+584,"Smith, Wall and Deleon Relationships",lime,661.69,219.17,Toy,5.34,e087778b,1982/07
+585,"Miller, West and Nielsen E-commerce",purple,730.84,364.75,Toy,63.06,aa06c3c5,1941/10
+586,Boyd Ltd Interfaces,purple,671.75,264.15,Toy,32.83,9ca0b939,1943/05
+587,Klein-Jones Communities,silver,703.96,269.90,Toy,25.69,e3aa1ecc,1941/11
+588,"Strong, Lee and Wade Users",lime,624.00,500.04,Fruit,50.03,d60c839d,1986/01
+589,Taylor Inc E-business,yellow,832.07,490.88,Toy,34.92,151d77fa,1945/11
+590,Harper PLC Roi,white,827.25,466.49,Jewelry,40.36,2ad44baf,1976/07
+591,Rodgers Ltd Info-mediaries,aqua,348.14,183.18,Basket,31.38,ff6532c2,1944/02
+592,Martinez Ltd Methodologies,navy,130.98,71.78,Coffee Mug,62.01,f0dcd9e8,1979/05
+593,Gardner Ltd Convergence,lime,471.12,162.93,Basket,45.65,a53c0338,1939/12
+594,"Carter, Leonard and Williams Users",black,521.56,291.45,Toy,53.77,4ec6df1a,1993/12
+595,Gardner-Simmons Schemas,maroon,895.89,477.32,Toy,2.15,dcf81a2f,1955/10
+596,"Baker, Johns and Reed Relationships",teal,885.34,715.31,Fruit,3.74,78da39d8,1961/03
+597,"Castillo, Stevens and Harris Services",green,532.19,428.24,Jewelry,38.47,77b779fa,1948/12
+598,Williams-Harris Solutions,aqua,93.18,49.47,Fruit,23.07,f9b1ed88,1955/09
+599,Soto-Randolph Supply-chains,green,232.19,135.08,Toy,11.75,15694221,1954/06
+600,"Brooks, Hart and Higgins Niches",yellow,312.23,160.22,Basket,35.01,11676cf1,1997/08
+601,Mitchell-Salinas Systems,purple,271.90,240.34,Jewelry,14.62,bfb9805e,1995/04
+602,"Flores, Sanchez and Strickland Eyeballs",navy,360.86,209.76,Fruit,21.43,4ba90827,1991/02
+603,Kennedy Davis Experiences,black,135.27,86.91,Fruit,1.12,7c09930f,1986/02
+604,Martinez PLC Networks,navy,225.65,22.50,Toy,20.04,ab62d9a2,1955/06
+605,Wilson PLC Interfaces,olive,439.44,226.32,Jewelry,35.56,37e0471f,2001/04
+606,Caldwell Inc Supply-chains,green,713.01,202.74,Bead,34.10,5bd26dd0,1955/01
+607,"Taylor, Dillon and Vazquez Roi",navy,386.33,84.92,Toy,58.10,aa845d14,1977/06
+608,Moreno PLC E-commerce,navy,705.68,168.05,Toy,60.55,062dcc86,1970/01
+609,Edwards-Curry Architectures,gray,382.84,274.66,Toy,42.54,fa802ec1,1947/12
+610,Schultz-Ramos Platforms,yellow,392.07,235.75,Toy,58.65,bc4fe2fb,1948/12
+611,"Frazier, Maxwell and Avian Schemas",blue,456.47,110.06,Jewelry,42.26,bfe7c9d2,2002/11
+612,"Reed, Casey and Silva Action-items",purple,326.93,155.17,Umbrella,2.22,620f55cf,1955/06
+613,"Fernandez, Scott and Stanton Channels",olive,803.52,79.42,Bead,23.93,236f4a73,1940/09
+614,White-Baxter Paradigms,gray,162.63,97.39,Paint,22.68,e7abf655,1993/08
+615,Scott PLC Portals,white,800.21,459.15,Toy,26.62,8ea82aac,2003/04
+616,Wallace-Valdez E-business,lime,341.85,245.14,Bead,21.54,c59459b8,2005/05
+617,"Brown, Mcdonald and Young Functionalities",silver,160.78,67.44,Toy,42.69,95b247db,1987/03
+618,"Mora, Austin and Stewart Systems",purple,103.01,63.01,Jewelry,29.79,05e7c524,2000/04
+619,Phelps Group Action-items,gray,67.07,48.17,Toy,62.04,a8f58abc,1971/01
+620,Reyes Group E-markets,lime,425.58,210.01,Fruit,29.22,e83f987e,1954/09
+621,"Edwards, Nelson and Stafford Paradigms",aqua,546.10,135.75,Jewelry,55.34,da15f6dd,1959/02
+622,Davis Group Action-items,lime,145.55,82.92,Bead,25.61,13554269,1989/04
+623,"Barton, Murphy and Fuller Methodologies",teal,361.41,144.65,Toy,2.58,6234b4d9,2006/08
+624,"Robinson, Wilkinson and Stanton Services",navy,132.55,45.28,Coffee Mug,8.32,676e309b,2000/02
+625,Li and Sons Paradigms,aqua,118.22,65.74,Umbrella,26.82,5e9ae5bd,1989/06
+626,Winters-Jackson Platforms,aqua,163.40,16.38,Bead,50.49,cb2e7999,1963/12
+627,Rivera-Freeman E-markets,black,365.35,218.18,Toy,11.73,a65532d3,1967/01
+628,Perez-Martin Schemas,aqua,158.03,117.84,Fruit,18.44,54c22608,1955/05
+629,Torres-Butler Functionalities,aqua,581.26,253.65,Toy,18.54,29ceffd4,1988/07
+630,Mcdaniel-Parker Synergies,olive,439.70,144.54,Toy,46.34,1db048af,1960/12
+631,Reid-Pena Metrics,green,378.66,357.14,Toy,51.65,016664f2,1987/10
+632,"Solis, Anderson and Sullivan Networks",white,52.89,37.85,Basket,44.78,af48078e,1972/05
+633,"Barton, Murphy and Fuller Methodologies",fuchsia,854.13,580.26,Toy,26.04,30884c73,1966/07
+634,"Butler, Duncan and Schroeder Channels",gray,75.18,25.09,Jewelry,39.33,5401d2e0,2002/07
+635,Bush Inc Functionalities,gray,248.77,174.31,Toy,13.85,640910b3,1958/09
+636,"Russell, Page and Jones Systems",navy,422.70,254.29,Fruit,6.26,ed7e7cd5,1982/07
+637,Sanchez-Contreras Synergies,lime,134.74,87.20,Toy,16.88,3ce4a2f6,2006/03
+638,Carter-Brown E-markets,navy,380.05,222.71,Toy,55.37,cc04806b,1985/04
+639,"Walker, Vasquez and Lee Synergies",teal,589.51,311.80,Fruit,28.77,459d52e6,1995/05
+640,"Oliver, Oconnell and Patel Web-readiness",maroon,620.64,444.10,Jewelry,4.80,90c5f153,1942/08
+641,"Cantu, Choi and Bishop Mindshare",green,330.77,76.98,Toy,58.25,a9b8fcb0,1959/02
+642,Smith Group E-commerce,white,566.98,158.65,Umbrella,20.34,0910228e,1979/07
+643,Elliott Ltd Roi,lime,69.40,21.88,Bead,62.38,ab43a813,1987/05
+644,"Alexander, Shepherd and Hall Services",yellow,482.83,403.22,Fruit,54.31,14550a11,1958/10
+645,"Dalton, Rice and Moreno Communities",white,765.86,542.21,Toy,27.39,f0dd49ec,1947/03
+646,"Williamson, Baxter and Garcia Interfaces",aqua,830.05,293.38,Toy,46.54,32977731,1974/08
+647,"Shields, King and Hunter E-business",yellow,222.81,12.78,Fruit,59.33,12cb4c1d,1991/02
+648,"Long, Pollard and Nixon Schemas",maroon,637.53,90.27,Jewelry,18.62,ca7107e0,1962/07
+649,Tucker-Jones Communities,gray,84.57,50.42,Paint,61.05,687d7a14,1971/02
+650,"Salinas, Cherry and Miller Interfaces",black,567.40,48.13,Bead,24.63,425f03b6,1976/11
+651,Wood-Smith Partnerships,blue,292.84,140.25,Fruit,56.21,00574b21,1987/05
+652,Perkins-Sullivan Applications,olive,273.09,176.48,Toy,47.82,3bd1ee90,1955/07
+653,Perez-Garrett Content,olive,110.07,51.65,Toy,44.28,c7d12acf,1969/11
+654,"Coleman, Galloway and Walker Metrics",gray,697.27,340.54,Jewelry,24.52,8f89f520,1992/11
+655,Valenzuela LLC E-commerce,navy,150.48,31.89,Jewelry,44.75,d9147c8f,1981/11
+656,Anderson-Cordova Models,yellow,745.07,672.60,Bead,53.55,2eb8b9f4,1959/06
+657,Bryant PLC Niches,navy,358.57,208.08,Toy,45.68,7a324e92,1959/02
+658,Allen-Webster Models,white,455.72,296.91,Fruit,44.47,bf5bfbb9,1992/12
+659,Jones Group Supply-chains,teal,494.24,306.67,Toy,1.83,5b290bf8,1979/06
+660,Coleman-Davis Models,fuchsia,607.94,241.83,Jewelry,35.00,5.166E+227,1977/11
+661,Palmer-Garrett Bandwidth,teal,"1,040.19",574.21,Fruit,13.83,955d9172,1961/03
+662,"Hamilton, Ware and Cox Action-items",white,789.33,425.53,Umbrella,58.07,f245afd6,1993/02
+663,"Phillips, Lawrence and Wong Niches",yellow,594.59,231.51,Toy,63.36,7c138fc3,1979/09
+664,"Chang, Duran and Evans Portals",teal,441.72,241.17,Fruit,44.80,34aa8383,1977/10
+665,Parker Ltd Initiatives,fuchsia,630.77,328.92,Toy,60.14,69e47461,1975/04
+666,Alvarez Ltd Synergies,maroon,506.55,328.99,Basket,35.32,c73d4a64,1952/12
+667,Hudson Ltd Vortals,blue,337.01,143.30,Fruit,51.50,3a587029,1974/12
+668,Malone and Sons Systems,teal,"1,005.37",238.15,Toy,15.95,deba047b,1986/07
+669,Garrett-Morales Paradigms,blue,253.55,70.24,Fruit,37.08,34d5a4aa,1948/01
+670,"Villanueva, Steele and Diaz Infrastructures",gray,"1,114.84",556.06,Coffee Mug,3.87,f3ff3ad5,1943/06
+671,"Carr, Henderson and Wallace Bandwidth",gray,826.90,144.73,Toy,56.92,4627564,1968/12
+672,Mann and Sons Functionalities,purple,706.05,326.77,Toy,36.11,ce859a28,1957/05
+673,Foster-Graves Web-readiness,lime,261.14,76.66,Jewelry,47.22,7522ec2c,2005/10
+674,"Lucero, Logan and Obrien Platforms",white,519.66,151.62,Toy,6.05,a8d9520d,1986/08
+675,Garcia Ltd Web-readiness,maroon,304.51,187.68,Basket,56.41,3bc67acb,1991/06
+676,Farley LLC Bandwidth,purple,481.47,145.38,Toy,33.28,ae7f10be,1969/01
+677,"Wallace, Young and Salazar Convergence",black,683.84,272.93,Toy,34.16,3dfe328c,2006/10
+678,Sanchez-Snow Action-items,gray,848.93,304.10,Jewelry,59.54,6247b328,1977/06
+679,Mcdonald-Hernandez Platforms,navy,"1,021.94",853.33,Fruit,45.49,fb00d455,1952/06
+680,"Ramirez, Brown and Herrera Metrics",fuchsia,623.67,157.95,Paint,22.24,e82ab0ac,1985/07
+681,Copeland-Briggs Content,yellow,688.45,353.90,Toy,40.63,a35b0e40,1994/03
+682,"Gutierrez, Serrano and Sanchez Convergence",teal,572.38,192.67,Paint,54.24,226ef723,1972/12
+683,Sanchez-Sanchez Bandwidth,silver,490.78,289.12,Coffee Mug,31.50,5dd41d12,1994/11
+684,Barton Ltd Methodologies,purple,252.99,156.66,Toy,3.28,12f109ba,1988/12
+685,Ramos-Harris E-business,olive,882.43,265.72,Toy,27.03,b2acef99,1978/11
+686,"Miller, Larson and Sutton Platforms",green,462.57,106.71,Jewelry,29.91,7023cc02,1969/07
+687,"Olson, Bates and Rivera Partnerships",olive,269.86,136.05,Toy,11.96,1e9820c6,1969/06
+688,Hall-Navarro Users,blue,300.99,126.16,Jewelry,35.62,8a3a8b0e,1938/08
+689,"Avery, Wilson and Nelson Interfaces",purple,"1,049.66",217.80,Toy,3.35,bac5de66,1952/05
+690,Cox-Fitzpatrick Architectures,olive,106.33,17.21,Toy,2.87,9cfdd2ce,1951/06
+691,"Snyder, Rodriguez and Shaw Web-readiness",purple,62.84,2.54,Toy,59.11,941bbb9d,1997/09
+692,Heath-Rivera Users,blue,621.24,455.47,Toy,58.12,6cfb1c45,2004/08
+693,"Green, Daniels and Bowers Channels",navy,458.19,223.89,Basket,47.72,50af0aef,1981/11
+694,Klein and Sons Infrastructures,black,734.26,111.36,Umbrella,6.65,e39ff001,1989/07
+695,"Cooley, Morton and Stanley Eyeballs",navy,510.03,310.04,Jewelry,30.66,4dbcdbe2,1960/06
+696,Soto-Randolph Supply-chains,white,959.18,516.10,Jewelry,10.32,6252660,1977/05
+697,"Rios, Ramirez and Stephens Systems",fuchsia,894.75,664.85,Jewelry,15.77,84d43c2a,1964/03
+698,Sexton PLC Functionalities,green,766.75,732.23,Toy,2.21,3cf66707,1968/04
+699,Gill Inc Mindshare,navy,"1,009.62",537.25,Jewelry,45.65,8fb9f926,1987/08
+700,Trevino-Garcia E-commerce,maroon,346.69,115.62,Toy,57.34,aac3ce1d,2003/10
+701,Nixon-Jones E-tailers,black,386.19,79.18,Fruit,7.88,713a9f92,1996/07
+702,Pittman Group Models,maroon,844.81,439.79,Bead,41.25,cdf60fd9,1941/02
+703,"Miller, West and Nielsen E-commerce",gray,691.10,373.74,Toy,40.74,92ac1a07,1978/02
+704,Roberts-Robles Technologies,maroon,299.77,47.97,Jewelry,1.68,894c4d59,1994/07
+705,Kim Group Mindshare,yellow,456.74,241.35,Basket,2.08,bab7b600,1944/12
+706,Parker LLC Web-readiness,navy,470.33,199.29,Fruit,7.07,1c9da532,1987/03
+707,Reese-Williams Niches,olive,970.98,352.48,Basket,51.56,f68e5217,1939/06
+708,"West, Rose and Hall Systems",navy,743.78,347.49,Toy,8.14,2151525e,1982/10
+709,Perez-Garrett Content,green,573.85,402.73,Basket,63.62,acefb7b3,1976/11
+710,"Colon, Shea and Chapman Info-mediaries",blue,153.77,35.99,Jewelry,20.75,9edfb14e,1964/07
+711,Cross-Perry Models,yellow,320.24,137.30,Fruit,1.12,2a79f3b9,1976/08
+712,"Saunders, Johnson and Bailey Applications",silver,726.58,662.58,Jewelry,42.03,e3d8b4da,1966/03
+713,Williams Ltd Eyeballs,lime,925.49,663.99,Coffee Mug,22.50,80d2f66d,2005/10
+714,"Davis, Schneider and Johnson Niches",aqua,50.80,21.19,Toy,11.03,2e11c0ca,1950/10
+715,Banks-Ferguson Eyeballs,navy,799.03,481.98,Jewelry,19.66,3972da60,2003/05
+716,"Johnson, Lewis and Turner Functionalities",lime,340.40,109.65,Bead,54.51,5cd4a25e,1969/12
+717,"Anderson, Small and Jones Markets",gray,966.90,327.81,Toy,40.40,9ee61962,1969/02
+718,Ward Ltd Channels,silver,505.83,247.81,Umbrella,26.97,c0ab0ded,2003/05
+719,Smith and Sons Initiatives,silver,929.03,561.80,Umbrella,33.87,3b29a7c0,1974/02
+720,"Chung, Hawkins and Ball E-commerce",purple,426.06,26.67,Fruit,7.35,f7e8ad13,1939/10
+721,Gardner-Blake Networks,aqua,420.12,266.53,Umbrella,43.81,dc4ffeaa,1957/02
+722,Holland PLC E-business,purple,465.12,200.96,Toy,59.71,bb46f0a0,1979/02
+723,"Cummings, Washington and Stokes Synergies",blue,631.01,125.37,Jewelry,15.91,9b7ee0e8,1997/04
+724,Cabrera-Brown Paradigms,white,903.91,244.97,Fruit,26.27,f7427939,1955/04
+725,Huber-Garrison E-business,purple,330.64,185.37,Toy,34.17,2364a1fc,1955/12
+726,Sharp-Sparks E-markets,green,754.61,572.51,Toy,33.48,1608b745,2004/03
+727,Riley-Smith Convergence,white,353.62,260.62,Jewelry,27.18,aab768d9,2001/06
+728,"Phillips, Sparks and Nelson Experiences",black,"1,038.65",380.51,Umbrella,14.96,9bbe28c4,1952/04
+729,Braun PLC Technologies,navy,296.31,195.82,Coffee Mug,45.30,79b6c18b,2006/09
+730,"Washington, Scott and Allen Synergies",teal,659.75,440.92,Basket,49.47,602e0f7c,1944/08
+731,"Patel, Graham and Haynes Content",silver,459.62,339.29,Toy,31.09,bad1a910,1940/06
+732,Taylor-Mullins Eyeballs,gray,709.82,249.69,Jewelry,35.38,eb7cd363,1942/09
+733,Ryan LLC Markets,teal,274.53,193.07,Paint,43.33,d6ebd085,1959/06
+734,Thomas-Kaufman Info-mediaries,blue,293.07,119.62,Toy,29.67,ddb167dd,1942/03
+735,Lucero PLC Roi,olive,602.02,300.27,Toy,38.10,7df74a9b,1979/08
+736,Mckenzie-Love Web-readiness,olive,111.55,86.75,Basket,16.39,2bbd4c2a,1990/02
+737,Klein-Jones Communities,gray,521.55,384.85,Basket,39.66,7d44428a,2006/03
+738,Maynard LLC Partnerships,lime,280.16,231.51,Bead,43.16,45e6cc7b,1943/10
+739,Jones-Edwards Channels,lime,794.44,173.47,Jewelry,17.37,f899bf85,1968/04
+740,"Andrews, Bennett and Lee Functionalities",teal,221.40,149.00,Toy,40.26,d6863b3e,1981/01
+741,Grant-Zimmerman Networks,purple,50.80,33.51,Fruit,62.41,71d72d47,1963/10
+742,"Jefferson, White and Banks Web-readiness",lime,30.25,6.53,Bead,43.18,503983ae,2004/10
+743,Perry Ltd Schemas,navy,985.64,740.70,Toy,17.46,018272c3,1953/11
+744,Reese-Williams Niches,navy,169.69,112.32,Toy,16.81,65b3ccb7,1945/01
+745,Hill and Sons Paradigms,silver,354.99,150.97,Jewelry,26.42,d10d7b56,1989/10
+746,Brady-Hernandez Functionalities,lime,"1,044.05",381.21,Fruit,30.07,22169604,1988/04
+747,Campbell Group Deliverables,navy,"1,042.05",402.80,Coffee Mug,56.61,6e098b0e,1967/06
+748,"Cummings, Thomas and Sutton Deliverables",gray,181.07,93.46,Umbrella,14.66,40299e8c,1947/05
+749,Reynolds Group Niches,green,658.57,275.50,Paint,4.38,fbb48e0b,1968/07
+750,Martin-Hamilton Partnerships,blue,725.90,364.99,Jewelry,4.78,1de70c5c,1938/08
+751,"Watson, Gardner and Clark Supply-chains",yellow,307.19,88.09,Jewelry,39.08,736fa5c9,1959/04
+752,Soto-Randolph Supply-chains,teal,194.12,26.70,Jewelry,49.86,75af3c36,1953/09
+753,Harris LLC Users,fuchsia,637.69,387.47,Fruit,28.79,5146569e,1959/03
+754,Welch and Sons Synergies,navy,491.26,203.73,Jewelry,21.03,369b9d74,1946/11
+755,Mcpherson LLC Niches,black,310.48,216.27,Toy,8.78,aae84b2b,1973/01
+756,"Howard, Lane and Weaver Deliverables",olive,199.48,106.92,Jewelry,50.24,9f871264,1942/07
+757,"Williamson, Taylor and Grant E-business",blue,360.01,196.04,Jewelry,21.57,119251a0,1964/09
+758,Dorsey-Cunningham Channels,fuchsia,586.98,256.18,Fruit,59.68,2ab29558,1964/03
+759,Watkins and Sons Relationships,fuchsia,178.79,120.24,Jewelry,40.23,589d1cec,2002/04
+760,Hawkins-Schwartz Deliverables,black,135.79,18.73,Bead,35.68,9f3de6fc,1975/03
+761,"Robinson, Palmer and Coleman Services",navy,"1,032.47",827.06,Fruit,16.19,19dd6776,1998/07
+762,Richardson Group Partnerships,silver,156.53,55.30,Jewelry,56.89,a5944666,1953/04
+763,"Wagner, Dawson and Ellis E-commerce",silver,719.76,256.23,Toy,4.10,0580f870,1946/11
+764,Mcintosh PLC Relationships,yellow,225.40,163.92,Jewelry,41.91,a2b4351a,1951/01
+765,Jones-Moore Synergies,blue,481.85,387.91,Bead,3.52,33145845,1989/11
+766,"Hancock, Parker and Ryan Bandwidth",white,164.65,84.34,Umbrella,5.58,ab99cd02,1978/05
+767,Andrews Group Markets,navy,209.51,88.52,Bead,40.34,13f2d8a5,1990/11
+768,Davis-Cruz Mindshare,purple,423.07,218.94,Fruit,63.71,79c642a1,1987/12
+769,"Lucero, Logan and Obrien Platforms",aqua,632.92,376.86,Basket,28.62,9051d638,2006/07
+770,"Bowman, Morrison and Chen Roi",blue,745.75,236.86,Toy,2.51,2de295aa,1954/02
+771,Goodwin-Garcia Vortals,black,67.70,23.71,Jewelry,2.47,7e94599b,1952/06
+772,Sharp-Sparks E-markets,purple,983.01,219.71,Bead,16.86,9570716,1978/09
+773,"Cox, Stanley and Smith Paradigms",gray,"1,112.37",598.16,Umbrella,43.40,7b8168d3,1956/09
+774,"Taylor, Thornton and Bishop E-tailers",purple,384.59,165.06,Umbrella,22.34,d6a37521,1960/05
+775,Edwards-Scott Architectures,aqua,174.94,107.26,Coffee Mug,58.57,e16ea02b,1992/08
+776,"Chang, Duran and Evans Portals",silver,567.79,389.71,Umbrella,20.03,e6806db4,1989/08
+777,Ryan Group Platforms,purple,222.73,18.45,Fruit,23.25,0fe8d233,1982/06
+778,Simpson-Perry Interfaces,white,543.18,87.84,Jewelry,39.96,3d752694,1951/01
+779,Simmons PLC Experiences,white,854.32,321.67,Basket,35.54,2f642e65,1999/12
+780,Allen Ltd Info-mediaries,purple,270.10,123.71,Basket,23.36,4a433458,1947/12
+781,Banks-Ferguson Eyeballs,olive,97.22,23.31,Toy,14.24,b7b1f117,1965/10
+782,Wang-Ramirez E-business,silver,389.23,74.61,Bead,16.15,82dcbd02,1989/04
+783,Russell-Miller E-tailers,white,550.66,283.41,Jewelry,61.27,a2f57719,2001/04
+784,Lam Group Niches,teal,269.69,80.98,Fruit,51.29,19a25499,1947/09
+785,Mckinney PLC Portals,olive,611.28,207.59,Umbrella,16.04,a4c4f7fe,1964/12
+786,"Goodwin, Vincent and Cox Synergies",yellow,201.23,62.80,Jewelry,34.70,cabcc1f2,2006/01
+787,Dean LLC Supply-chains,aqua,145.15,118.55,Umbrella,20.22,33866f28,1979/10
+788,Coleman-Boyle E-markets,gray,307.44,231.35,Toy,49.35,e9217408,1985/02
+789,"Benson, Mata and Bentley Infrastructures",yellow,61.16,24.29,Toy,33.98,d48e563f,1965/07
+790,Gross PLC Users,gray,"1,225.03",460.46,Toy,3.52,fd8dd55a,1952/03
+791,"Ortiz, King and Rodriguez Services",silver,498.94,320.01,Toy,24.80,2b31cc4d,1941/03
+792,Pugh-Collier Vortals,maroon,101.32,22.91,Toy,52.44,73a9edd2,1965/03
+793,Mullins Inc Communities,fuchsia,498.51,307.43,Toy,60.64,9326aa43,1991/08
+794,Pearson-Reyes Web-readiness,gray,705.97,554.98,Toy,39.27,4728351c,1960/05
+795,Cross Ltd Info-mediaries,aqua,197.66,130.40,Fruit,23.10,1456e7d6,1945/09
+796,Caldwell and Sons Services,olive,231.88,121.22,Jewelry,54.32,731cab4b,1994/08
+797,"Harris, Hines and Novak Applications",olive,736.16,370.61,Toy,15.64,f331e472,1973/08
+798,Banks-Ferguson Eyeballs,green,403.72,59.25,Jewelry,18.12,831d5977,1951/12
+799,Meyers-Jacobson Methodologies,silver,536.33,328.38,Basket,38.56,0cc8f003,1951/08
+800,"Lamb, Perry and Barton Users",aqua,745.40,19.60,Jewelry,24.53,ca8b8417,1993/08
+801,"Larsen, Smith and Hubbard Technologies",aqua,"1,043.81",404.74,Toy,2.25,d4f6359c,1972/01
+802,Fox-Patel Roi,gray,71.97,33.61,Bead,14.49,88eae7cb,1975/07
+803,Rogers-Simmons Solutions,gray,154.85,98.97,Fruit,40.43,217a322b,1995/05
+804,Chavez-Wilson Convergence,silver,103.82,61.58,Fruit,57.51,2355abab,1939/03
+805,"Gardner, Cook and Drake Markets",yellow,419.25,253.47,Basket,46.45,40608ab4,1949/07
+806,"Diaz, Brown and Stevenson Channels",gray,437.58,254.27,Toy,56.65,132d80b8,1942/02
+807,Martin Inc Networks,yellow,367.89,38.06,Toy,61.23,dca4b147,1970/10
+808,"Phillips, Sparks and Nelson Experiences",lime,849.54,377.65,Jewelry,27.28,ce18021b,2004/08
+809,"Dixon, Burton and Williams Solutions",aqua,301.65,179.33,Toy,14.68,f0514c48,2008/06
+810,Saunders Ltd Eyeballs,purple,630.89,364.48,Umbrella,27.32,ebbfe205,1957/05
+811,Branch Group Partnerships,white,970.19,655.10,Coffee Mug,29.29,31aa1dfe,2006/06
+812,Stevens-Arnold Vortals,gray,772.16,455.93,Jewelry,63.30,d5ba2deb,1956/03
+813,"Hanson, Banks and Hunt Paradigms",lime,401.61,57.31,Jewelry,54.35,bb477e17,1978/12
+814,Steele PLC Interfaces,yellow,246.50,140.24,Jewelry,52.82,27f4219c,1966/10
+815,Ray-Ramirez Eyeballs,gray,837.10,571.83,Coffee Mug,32.48,50feffa6,1988/01
+816,"Webb, Reese and Bell E-tailers",black,391.74,143.29,Fruit,43.70,c865524b,1962/01
+817,Morrison-Steele Schemas,gray,124.28,42.72,Umbrella,53.07,08d31051,1969/12
+818,Carter LLC Methodologies,purple,717.64,414.43,Jewelry,23.31,019f0d87,1976/02
+819,Sparks PLC Portals,blue,"1,060.19",226.33,Toy,47.82,0cfbb528,1997/07
+820,Pacheco-Peterson Platforms,fuchsia,264.75,221.62,Jewelry,54.22,2523900000000,1945/05
+821,"Jones, Lee and Whitney Markets",yellow,174.59,85.02,Jewelry,30.15,66a11b19,1976/09
+822,"Case, Leonard and Brady Vortals",lime,250.38,208.06,Jewelry,11.32,628cc446,1939/11
+823,"Burns, Morton and Jackson Functionalities",gray,692.03,393.70,Fruit,17.05,113bd9ca,1991/01
+824,Durham-Garcia Systems,black,345.71,147.38,Toy,22.20,88d17963,1951/06
+825,"Martinez, Gonzalez and Forbes E-markets",aqua,283.38,134.89,Fruit,9.78,5a341ecf,1947/09
+826,Lozano-Martinez Models,aqua,521.42,401.68,Jewelry,48.04,91d31029,1962/10
+827,Powell-Nichols Bandwidth,teal,353.57,104.40,Toy,42.07,91421a29,1989/11
+828,Heath Group Supply-chains,purple,120.21,52.16,Toy,54.68,f26f4587,1939/05
+829,Morgan-Deleon Networks,aqua,"1,009.56",620.59,Jewelry,45.94,770c99dd,1991/03
+830,"Johnson, Harris and Jones Metrics",yellow,478.27,220.43,Toy,15.18,8b4ebe10,1978/01
+831,"Alvarado, Yoder and Torres Mindshare",teal,190.44,90.62,Coffee Mug,7.35,d3090b7c,2004/05
+832,"Alvarado, Taylor and Casey Deliverables",navy,440.65,333.40,Jewelry,60.40,741ff437,1951/07
+833,Hebert Ltd Functionalities,black,436.62,168.62,Coffee Mug,27.09,88000fcf,1995/09
+834,Lang-Williams Services,teal,78.48,17.93,Toy,28.71,01ec04b7,1992/07
+835,Powell-Nichols Bandwidth,yellow,873.10,366.74,Umbrella,18.08,7c66791d,1942/08
+836,"Baker, Santos and Obrien Markets",olive,562.16,407.59,Toy,31.14,3b8379d5,1941/05
+837,Acosta PLC Users,maroon,312.80,161.64,Fruit,9.29,ad7a735b,1988/04
+838,"Rodriguez, Cardenas and Shaw Networks",green,560.87,439.28,Jewelry,58.49,b91bab70,1966/10
+839,"Price, Turner and Miller Deliverables",black,490.28,292.38,Fruit,2.09,292b4709,1940/06
+840,Davis-Ray Deliverables,green,630.40,465.06,Fruit,39.75,79670837,1981/03
+841,"Perez, Vega and Martinez Relationships",green,709.14,360.19,Basket,20.78,b80fc929,1968/05
+842,Howard Group Metrics,olive,677.75,625.90,Jewelry,16.79,f16574f7,1945/12
+843,Wheeler-Wells Web-readiness,fuchsia,617.46,343.97,Toy,9.87,dced1e7b,2001/08
+844,Anderson PLC E-tailers,aqua,77.57,18.58,Toy,3.49,fe48a274,1942/10
+845,"Mills, Wise and Lang Metrics",yellow,554.29,421.43,Jewelry,22.26,bf994276,1959/01
+846,Mitchell-Washington Methodologies,maroon,636.57,493.77,Toy,50.96,19e63f34,1942/11
+847,Moyer Ltd Content,silver,805.85,90.49,Jewelry,61.11,95d6c58b,1998/09
+848,Weiss-Harris Portals,black,591.07,245.15,Toy,1.84,95563036,1953/04
+849,Mora and Sons Action-items,gray,328.66,204.41,Fruit,20.55,f121770f,1949/10
+850,Reid-Pena Metrics,fuchsia,885.25,472.05,Jewelry,26.65,e4de3f29,1939/08
+851,Holland PLC E-business,yellow,674.42,190.74,Toy,25.77,bbf688ce,1995/10
+852,"Koch, Green and Miller Paradigms",purple,417.69,169.73,Fruit,30.74,9a4b88ce,1953/07
+853,"Ruiz, Armstrong and Alexander Supply-chains",yellow,424.07,231.90,Jewelry,60.00,f914ac0f,1955/12
+854,Baker LLC Applications,green,475.80,139.11,Toy,20.14,0bc48bb1,2000/06
+855,Chavez-Gentry Bandwidth,lime,487.83,363.08,Toy,29.73,cac1b9be,1948/07
+856,Anderson Inc Supply-chains,white,192.84,112.59,Fruit,41.70,002de05b,1945/01
+857,"Garcia, Mcdonald and Eaton Experiences",purple,680.77,343.23,Toy,10.41,a3400765,1981/10
+858,Carpenter LLC Services,olive,538.46,200.55,Fruit,41.56,ea01c910,2000/11
+859,"Wolf, Parker and Church Users",maroon,880.99,328.77,Fruit,16.22,b9ce3da4,2005/10
+860,Walsh PLC Synergies,navy,701.89,529.70,Jewelry,33.87,3d21c219,1954/10
+861,Watkins and Sons Networks,olive,180.96,117.19,Bead,60.75,422ad933,1948/06
+862,"Smith, Gonzales and Johnson Communities",lime,677.63,546.09,Fruit,34.83,842f502c,1979/01
+863,Murphy-Brown Applications,silver,180.19,71.60,Bead,9.82,7d6547c5,1960/06
+864,Bates Inc Convergence,teal,197.57,40.60,Toy,6.40,36db7f21,1971/03
+865,"Cantu, Choi and Bishop Mindshaare",navy,405.93,313.02,Bead,1.42,1d9c1b3c,2007/04
+866,Bauer-Pacheco Supply-chains,green,366.21,282.88,Jewelry,49.22,63bcc362,1969/01
+867,Anderson and Sons Deliverables,navy,83.10,63.42,Fruit,13.34,e625f01c,1962/12
+868,Howard-Martin Methodologies,maroon,312.87,176.89,Basket,32.23,227e70c3,1985/10
+869,"Cherry, Norman and Turner Platforms",fuchsia,384.04,268.50,Umbrella,49.03,6c819147,1968/08
+870,Browning Ltd Networks,green,230.68,67.40,Fruit,29.99,eed672fb,1999/08
+871,Goodwin-Garcia Vortals,gray,743.14,194.04,Toy,5.56,449b3522,1946/08
+872,"Jones, Pearson and Peterson Services",white,"1,050.95",869.18,Fruit,52.72,0559e381,1974/10
+873,"Cook, Patterson and Perry E-markets",blue,556.46,198.12,Basket,55.21,0528eba1,1963/05
+874,Sims PLC Web-readiness,olive,578.29,119.69,Umbrella,10.08,edbf5acf,1953/08
+875,"Dean, Gould and Bentley Partnerships",yellow,510.49,349.71,Basket,55.56,a69b8a64,2007/10
+876,Jackson Group Schemas,black,174.49,29.87,Fruit,35.30,f92ced06,1950/08
+877,"Garcia, Fleming and Mays Applications",black,141.73,73.25,Fruit,49.62,3913110a,1993/02
+878,"Harrison, Walker and Brooks Niches",olive,451.24,231.61,Toy,48.85,c91aa42a,1974/02
+879,Wilson-Gonzalez Partnerships,aqua,298.50,147.85,Coffee Mug,4.00,fa8c3811,2004/05
+880,"Johnson, Byrd and Ross Services",teal,276.76,173.14,Bead,25.28,f090d3b8,2005/02
+881,"Coleman, Nguyen and Burgess Emarkets",purple,192.82,109.13,Basket,50.57,53c435c6,1993/06
+882,"Norman, White and Horton Infrastructures",black,668.61,229.20,Paint,32.12,80abd3e6,1982/11
+883,Alexander Group Eyeballs,lime,147.38,56.26,Bead,24.38,a153397d,1960/12
+884,Hart Inc Deliverables,fuchsia,670.64,484.10,Bead,51.94,07d635fc,1979/03
+885,Middleton Ltd E-services,aqua,266.93,142.15,Toy,54.71,68f3202e,1991/03
+886,"Bennett, Mccormick and Evans Relationships",teal,720.67,167.14,Bead,45.97,d4ef84bd,2006/02
+887,Martinez PLC Networks,teal,851.60,471.73,Basket,52.00,33ef40b9,1977/02
+888,Stephens-Vargas Infrastructures,blue,470.63,185.48,Jewelry,36.10,96521be4,1973/01
+889,Jones-Edwards Channels,teal,"1,045.08",953.14,Jewelry,49.05,2b53b0ec,1941/07
+890,Fernandez-Davis Infrastructures,blue,554.43,179.43,Bead,28.26,7062fec4,1989/12
+891,Cabrera LLC Convergence,black,"1,063.46",578.78,Jewelry,11.49,46d05f90,1953/11
+892,Smith and Sons Users,gray,735.72,514.98,Jewelry,49.39,dae943fe,1979/06
+893,Ferguson Inc Roi,purple,285.31,95.29,Jewelry,14.89,939bd868,1984/11
+894,Cox Ltd Services,maroon,132.28,62.16,Toy,43.07,481be1ac,1996/10
+895,Anderson Inc Metrics,blue,"1,097.81",96.13,Jewelry,27.73,dc2d77f5,1962/05
+896,Harris LLC Infrastructures,purple,437.70,219.58,Coffee Mug,45.70,d846d466,1959/01
+897,Bowman LLC Schemas,yellow,382.53,167.72,Toy,62.88,bb26444e,1966/01
+898,Sanchez-Snow Action-items,black,507.15,240.42,Toy,33.74,fade8061,1993/11
+899,Graham LLC Metrics,yellow,468.15,232.95,Fruit,17.77,589ef8e0,1975/08
+900,"Quinn, Cooper and Smith Info-mediaries",maroon,423.39,119.52,Toy,53.16,cd0acf16,1988/04
+901,"Jimenez, Goodwin and Brady Markets",aqua,526.08,81.27,Basket,16.14,bd6dfd99,1948/03
+902,Hill-Long Systems,aqua,186.15,178.76,Toy,14.65,0c89c058,1986/07
+903,Brown-Diaz Info-mediaries,fuchsia,589.47,212.18,Toy,60.28,11124b6c,1980/06
+904,Medina Inc Web-readiness,aqua,248.78,190.36,Jewelry,57.44,d6ef03a8,1960/02
+905,Collins and Sons Architectures,purple,370.40,128.59,Bead,19.67,761806cf,1939/12
+906,Mason-Garcia Channels,lime,669.38,352.57,Coffee Mug,50.15,92389c73,1942/12
+907,"Ross, Norris and Wells Eyeballs",maroon,"1,039.98",691.14,Basket,7.66,ecb6d657,1957/05
+908,"Nichols, Lutz and Norton Convergence",purple,464.92,51.50,Toy,8.07,b3757ea5,1980/06
+909,Willis Ltd Synergies,silver,641.33,417.09,Basket,37.69,bd4a4371,1946/04
+910,Ellis-Best E-tailers,teal,465.07,149.83,Bead,44.66,efd02784,1969/01
+911,Quinn Inc Applications,silver,799.04,251.89,Toy,7.68,534c1932,1997/10
+912,Donovan PLC Schemas,silver,874.10,525.30,Fruit,5.88,a86fa0f9,1996/08
+913,Sawyer and Sons Schemas,olive,851.47,443.35,Toy,33.07,bd388e33,1993/03
+914,"Taylor, Phillips and Cunningham Architectures",maroon,597.72,461.26,Toy,59.23,b490b5d8,1990/05
+915,Simmons and Sons Technologies,maroon,506.22,396.76,Toy,48.95,02dbea09,1984/08
+916,"Rogers, Knight and Cunningham Solutions",green,820.68,308.46,Basket,22.08,ceab8827,1965/05
+917,"Johnson, Lee and Choi Action-items",navy,253.68,98.69,Jewelry,2.26,4c8d049b,1942/08
+918,Kirk Group Action-items,maroon,225.87,90.99,Toy,39.12,4ec6f7e7,1972/12
+919,Li and Sons Paradigms,olive,415.55,135.41,Paint,32.99,122d0a51,1951/06
+920,Donovan-Santana Services,gray,606.95,546.32,Toy,31.20,11380052,1954/11
+921,"Silva, Hinton and Riley Supply-chains",lime,127.26,25.42,Basket,48.06,d8ab80a6,1969/12
+922,"Bell, Williams and Brown Mindshare",green,159.76,106.24,Toy,54.35,2a951137,1939/04
+923,Park-Cohen Users,teal,496.35,65.31,Basket,43.20,198ad4f8,1990/04
+924,"Cannon, Scott and Miller Methodologies",purple,269.40,112.36,Umbrella,20.98,ad2e975d,1962/05
+925,Smith-Garrett Applications,yellow,763.96,162.11,Toy,47.31,32da7ffa,1942/01
+926,Adams and Sons Deliverables,white,"1,210.26",824.59,Paint,34.29,cb05f03b,1997/08
+927,Martinez-Moreno Initiatives,gray,218.52,93.81,Toy,63.79,c5ea4989,1996/07
+928,"Hernandez, Walker and Williams Supply-chains",blue,668.73,471.60,Toy,38.80,b982af8a,1967/06
+929,Benjamin-Webb Initiatives,fuchsia,215.67,31.08,Fruit,4.80,48413d1c,1939/06
+930,Ortiz and Sons Relationships,white,510.40,385.06,Jewelry,58.30,27cd737d,1979/02
+931,"Rodgers, Sherman and Evans E-business",yellow,86.79,45.35,Basket,2.69,7dcc43b1,1964/01
+932,Sanchez-Snow Action-items,black,806.24,236.92,Bead,7.18,893e965c,1959/03
+933,"Ward, Hill and Brown Experiences",aqua,449.51,120.51,Jewelry,11.80,a06b5d9e,1999/07
+934,Bautista-Osborne Networks,white,372.81,235.83,Bead,26.58,d09379de,1977/06
+935,Fisher-Mccann Interfaces,aqua,420.57,144.02,Fruit,13.55,322b2bf4,1945/04
+936,Payne Inc E-tailers,maroon,746.79,182.36,Jewelry,53.28,22e73b21,1939/01
+937,Decker and Sons Synergies,navy,"1,059.93",67.55,Paint,6.81,249cd59a,1982/04
+938,Scott-Perez Partnerships,gray,159.45,92.49,Fruit,22.25,dedd44ef,1973/10
+939,Graham-Williams Vortals,olive,518.70,211.02,Jewelry,54.46,891353c9,1984/10
+940,Gamble-Phillips Initiatives,green,618.85,305.42,Jewelry,3.90,8dbb494d,1938/12
+941,Jones-Edwards Channels,silver,539.65,457.95,Toy,28.50,96e20f7f,2008/02
+942,Gross PLC Users,blue,710.41,258.21,Umbrella,39.84,3f64a1ef,1939/03
+943,Ruiz Inc Content,white,361.17,70.43,Toy,31.28,d35a199e,1995/08
+944,Black LLC Niches,olive,286.55,126.72,Fruit,7.91,98e991b5,1955/08
+945,"Duncan, Lucero and Mueller Initiatives",olive,627.34,251.29,Basket,9.87,dbecfeb6,1996/03
+946,Martin-Brown Platforms,teal,439.35,228.89,Basket,55.46,8811f96d,1986/01
+947,Johnson-Everett Vortals,black,474.38,162.07,Jewelry,55.60,0974cdf9,1997/03
+948,"Yang, Pruitt and Oconnor Action-items",green,535.41,51.71,Toy,58.68,f433ee51,1957/03
+949,Long-Torres Interfaces,navy,369.74,283.52,Jewelry,44.44,2e6555ca,1963/07
+950,Garza-Ryan Supply-chains,gray,930.15,678.56,Jewelry,16.16,19bed8bf,1980/05
+951,"Hall, Mendez and Morrison Vortals",green,144.80,43.79,Jewelry,61.35,a1ddb440,2007/10
+952,Bryant Ltd Functionalities,yellow,431.82,218.18,Jewelry,40.51,b1086caf,1945/06
+953,"Marshall, Herrera and Mills Channels",teal,184.54,116.28,Toy,31.70,249624d9,1992/06
+954,Mcneil LLC Systems,yellow,659.89,259.79,Jewelry,4.76,1b097ea0,1975/11
+955,Gray Group Relationships,purple,178.98,128.98,Toy,7.47,5d88b22a,1941/07
+956,Berger Ltd Interfaces,black,378.93,82.43,Fruit,44.99,1a1755dc,1949/06
+957,Hogan-Bradley Networks,silver,186.34,66.58,Toy,62.10,106537cf,1955/10
+958,"Bonilla, Burns and Gonzalez Schemas",silver,"1,129.28",704.08,Fruit,6.26,d84e6e59,1991/10
+959,"Sullivan, Proctor and Walker E-services",olive,"1,200.20",732.49,Umbrella,11.94,0f158048,1953/05
+960,Howard-Beltran E-commerce,yellow,687.59,619.71,Toy,11.09,ff60909d,1953/12
+961,Garcia Group Communities,purple,512.00,277.26,Umbrella,50.19,2dba6402,1977/09
+962,Howell-Hernandez Schemas,blue,783.65,269.04,Jewelry,15.58,2ac2b69c,1952/02
+963,Lewis-Casey E-services,aqua,454.34,12.66,Toy,6.03,b27bad60,2008/05
+964,"Phillips, Lawrence and Wong Niches",white,230.52,130.65,Fruit,52.41,cd3dd881,2005/02
+965,Levine-Johnston Vortals,green,408.57,103.57,Jewelry,36.90,4dc337d5,1974/05
+966,Campbell Group Deliverables,teal,635.94,402.01,Toy,57.18,77bc81b6,1975/12
+967,Bruce-Gibson Solutions,aqua,212.41,143.36,Basket,3.26,24ce3694,1947/02
+968,"Acevedo, Dalton and Coleman Niches",aqua,609.63,226.08,Jewelry,57.91,dad0ae71,1960/07
+969,"Butler, Rivas and Jones Partnerships",aqua,140.30,121.91,Fruit,40.27,342dc376,1946/10
+970,Pineda PLC E-business,silver,202.26,189.45,Fruit,28.47,972a180c,1974/04
+971,Harper PLC Roi,olive,313.24,123.91,Basket,21.71,302b7d05,1963/10
+972,Price and Sons Info-mediaries,blue,22.00,12.68,Jewelry,7.17,88c351d7,1955/04
+973,Phillips PLC Metrics,yellow,437.29,223.13,Fruit,24.20,f2466fe3,2006/03
+974,"Woodward, Martinez and Nelson Relationships",black,667.63,527.96,Jewelry,15.31,b0716fe4,1964/08
+975,Stewart Group Services,maroon,202.30,112.97,Fruit,43.99,2ef2bd9a,1964/12
+976,Guerra Ltd Solutions,maroon,404.39,173.76,Toy,59.00,5f364965,1973/05
+977,"Caldwell, James and Martin Metrics",yellow,309.89,222.21,Jewelry,23.91,4359442e,2005/01
+978,"Patterson, Terry and Trevino Services",silver,349.52,118.32,Toy,23.30,a4ff93c0,1966/07
+979,Martinez PLC Networks,teal,357.18,223.06,Jewelry,6.30,1907ec62,1965/12
+980,Dixon Ltd Vortals,aqua,341.57,161.41,Bead,55.23,6348aaf5,1971/12
+981,"Spencer, Hansen and Mays Bandwidth",gray,129.38,69.27,Paint,1.93,c0b7a0e1,1989/08
+982,"Keith, Morales and Pham Vortals",green,247.28,99.71,Jewelry,43.98,add50fbe,1949/11
+983,"Ramirez, Escobar and Hogan Relationships",black,754.70,191.13,Jewelry,48.48,a19862cd,1955/01
+984,Bradley LLC Methodologies,white,324.78,237.58,Toy,43.56,d1e322c7,2002/04
+985,"Colon, Shea and Chapman Info-mediaries",teal,486.45,156.16,Toy,8.91,53a0919c,1952/11
+986,Fuller-Gomez Synergies,yellow,272.45,159.94,Jewelry,37.79,18f2785f,1993/10
+987,Chung-Rodriguez Bandwidth,yellow,444.76,140.57,Jewelry,4.41,0a773aa1,1964/02
+988,"Mclaughlin, Sanchez and Mcclure Systems",blue,187.84,86.02,Fruit,35.14,d0e92423,1983/09
+989,Ramirez-Monroe Convergence,gray,379.19,218.11,Fruit,31.85,c49264b0,1989/12
+990,"Johnson, Berry and Garcia Solutions",black,455.92,192.89,Jewelry,40.21,e3d80adc,1980/06
+991,"Bishop, Rollins and Green Solutions",maroon,102.84,54.24,Umbrella,45.91,92aa97da,1976/02
+992,"White, Wood and Sullivan Communities",aqua,377.92,107.17,Fruit,4.63,d4ac287c,1960/01
+993,Hopkins PLC Channels,teal,904.39,541.35,Fruit,38.74,15375e8b,1953/04
+994,"Smith, Rice and Manning Channels",olive,557.39,336.82,Basket,51.85,5412a533,1960/09
+995,"Diaz, Patel and Gallagher Channels",fuchsia,409.68,241.01,Toy,49.83,790859d0,1950/06
+996,"Mckinney, Thompson and Torres Users",maroon,516.11,183.92,Basket,18.03,c5dcbccb,1961/10
+997,Nguyen and Sons Solutions,black,643.91,172.90,Fruit,37.46,706c2199,1957/09
+998,"Walker, Lloyd and Gardner Channels",gray,42.43,23.01,Basket,16.60,f2b771c2,1974/07
+999,Knight-Munoz Web-readiness,olive,723.63,433.76,Basket,25.56,81643625,1985/03
+1000,Mcbride PLC Relationships,olive,809.79,615.80,Toy,16.58,03e0155f,1979/04
+1001,Flores-Evans Applications,lime,416.89,166.65,Jewelry,18.16,11841d05,1975/04
+1002,"Smith, Hernandez and Edwards Mindshare",aqua,141.56,90.96,Toy,16.49,a599dec6,1947/05
+1003,Simmons Inc Solutions,lime,300.30,108.98,Toy,35.37,84a82de6,1964/06
+1004,"Brown, Thompson and Daniels Content",green,55.32,17.99,Bead,39.70,19236e3a,1996/03

@@ -1,0 +1,16 @@
+aqua 2.3
+black 1.67
+blue 4.2
+fuchsia 2.1
+gray 0.8
+green 3.2
+lime 0.7
+maroon 4.0
+navy 2.8
+olive 2.5
+purple 1.7
+silver 1.2
+teal 1.6
+white 3.0
+yellow 2.5
+red 5.5
